@@ -1,0 +1,1060 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Paideia Thriamous. The triumph of learning over ignorance, and of truth over faleshood. Being an answer to foure quæries. Whether there be any need of universities? Who is to be accounted an hæretick? Whether it be lawfull to use coventicles? Whether a lay-man may preach? VVhich were lately proposed by a zelot, in the parish church at Swacie neere Cambridge, after the second sermon, October 3. 1652. Since that enlarged by the answerer, R.B. B.D. and fellow of Trin. Col. Camb.</title>
+            <author>R. B. (Robert Boreman), d. 1675.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 113 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77100</idno>
+            <idno type="STC">Wing B3760</idno>
+            <idno type="STC">Thomason E681_10</idno>
+            <idno type="STC">ESTC R206793</idno>
+            <idno type="EEBO-CITATION">99865899</idno>
+            <idno type="PROQUEST">99865899</idno>
+            <idno type="VID">118153</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77100)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118153)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 105:E681[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Paideia Thriamous. The triumph of learning over ignorance, and of truth over faleshood. Being an answer to foure quæries. Whether there be any need of universities? Who is to be accounted an hæretick? Whether it be lawfull to use coventicles? Whether a lay-man may preach? VVhich were lately proposed by a zelot, in the parish church at Swacie neere Cambridge, after the second sermon, October 3. 1652. Since that enlarged by the answerer, R.B. B.D. and fellow of Trin. Col. Camb.</title>
+                  <author>R. B. (Robert Boreman), d. 1675.</author>
+               </titleStmt>
+               <extent>[8], 34, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by R. Royston at the Angel in Ivie-lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653 [i.e. 1652]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>R.B. = Robert Boreman.</note>
+                  <note>Title page in red and black; the first two words of title in Greek characters.</note>
+                  <note>The words "Whether there be .. preach?" are enclosed in brackets on title page.</note>
+                  <note>The last leaf contains: The authours prayer to God, for the suppressing of hæresie, and happy composing of our unhappy divisions.</note>
+                  <note>Annotation on Thomason copy: "Nouemb. 13. 1652".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Religion --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118153:1" rendition="simple:additions"/>
+            <p>
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. THE TRIVMPH OF LEARNING OVER IGNORANCE, AND OF TRUTH over FALSEHOOD. Being an Anſwer to foure Quaeries.
+<list>
+                  <item>
+                     <hi>Whether there be any need of</hi> Univerſities?</item>
+                  <item>
+                     <hi>Who is to be accounted an</hi> Haeretick?</item>
+                  <item>
+                     <hi>Whether it be lawfull to uſe</hi> Conventicles?</item>
+                  <item>
+                     <hi>Whether a</hi> Lay-man <hi>may</hi> Preach?</item>
+               </list>
+VVhich were lately propoſed by a <hi>Zelot,</hi> in the Pariſh <hi>Church</hi> at <hi>Swacie</hi> neere <hi>Cambridge,</hi> after the ſecond Sermon, <hi>October</hi> 3. 1652.</p>
+            <p>
+               <hi>Since that enlarged by the</hi> Anſwerer, <hi>R.B.</hi> B.D. and Fellow of <hi>Trin.</hi> Col. <hi>Camb.</hi>
+            </p>
+            <q>
+               <bibl>TALMUD.</bibl>
+               <p>
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Qui auget</hi> Academias, <hi>auget Sapien<g ref="char:EOLhyphen"/>tiam &amp; Sapientes.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>IGNAT.</bibl>
+               <p>
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+            </q>
+            <q>
+               <bibl>ROM. 16.17.</bibl>
+               <p>
+                  <hi>Marke them which cauſe diviſions and avoid them.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>ROM. 10.15.</bibl>
+               <p>
+                  <hi>How ſhall they preach except they be ſent?</hi>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for R. ROYSTON at the Angel in <hi>Ivie-lane,</hi> 1653.</p>
+         </div>
+         <div type="list_of_academies">
+            <pb facs="tcp:118153:2"/>
+            <pb facs="tcp:118153:2"/>
+            <head>A CATALOGUE of the moſt famous ACADEMIES in all Chriſtian <hi>CHURCHES,</hi> Digeſted into the Order of the ALPHABET.</head>
+            <p>In Latin thus, (as followes) by <note n="*" place="margin">
+                  <hi>L.</hi> 2. <hi>ad. Octa<g ref="char:EOLhyphen"/>vum,</hi> de Aca<g ref="char:EOLhyphen"/>demiis.</note> 
+               <hi>Middendorpius</hi> (Vice-chancellour of the Univerſitie of <hi>Colen</hi>) and <hi>Alſtedius.</hi> l. 24. c. 13. <hi>Encyclop. Scholaſ.</hi>
+            </p>
+            <list>
+               <item>Anglia 2.
+<list>
+                     <item>
+                        <hi>Cantabrigienſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Oxonienſis.</hi>
+                     </item>
+                  </list> 
+                  <hi>a Cantabro Hispanorum Rege</hi> per tumultum ac ſeditionem a pa<g ref="char:EOLhyphen"/>triâ pulſo (longe ante <hi>Oxonium</hi> ab <hi>Alphredo</hi>) fundata.</item>
+               <item>Bohemia 1.
+<list>
+                     <item>
+                        <hi>Pragenſis.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Dania 1.
+<list>
+                     <item>
+                        <hi>Hafinenſis.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Gallia 15.
+<list>
+                     <item>
+                        <hi>Andegavenſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Avenionenſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Aurelianenſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Bituricenſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Burdigalenſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Cadurcenſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Dolana.</hi>
+                     </item>
+                     <item>
+                        <hi>Duacenſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Lugdunenſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Monpelienſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Pariſienſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Pictavienſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Rhemenſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Tholoſana.</hi>
+                     </item>
+                     <item>
+                        <hi>Valentina.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>German. 25.
+<list>
+                     <item>
+                        <hi>Argentinenſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Altorfenſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Baſilienſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Colonienſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Dilingana.</hi>
+                     </item>
+                     <item>
+                        <hi>Erfordienſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Francofortenſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Francherana.</hi>
+                     </item>
+                     <item>
+                        <hi>Friburgenſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Gryſwaldenſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Groningenſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Heildebergenſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Helmſtadienſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Ingolſtadienſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Lipſenſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Lovanienſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Leidenſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Marpurgienſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Moguntina.</hi>
+                     </item>
+                     <item>
+                        <hi>Regiomontana.</hi>
+                     </item>
+                     <item>
+                        <hi>Rostochienſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Treverenſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Tubingenſis:</hi>
+                     </item>
+                     <item>
+                        <hi>Vicimenſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Witebergenſis.</hi>
+                     </item>
+                  </list>
+               </item>
+               <pb facs="tcp:118153:3"/>
+               <item>Hiſpania 18.
+<list>
+                     <item>
+                        <hi>Conimbricenſis.</hi> (in Luſitaniâ.)</item>
+                     <item>
+                        <note n="*" place="margin">In hâc <hi>Ig<g ref="char:EOLhyphen"/>natius Loiola,</hi> Eccleſiae &amp; Rerump. pe<g ref="char:EOLhyphen"/>ctis, eſt educa<g ref="char:EOLhyphen"/>tus.</note>
+                        <hi>Complutenſis.</hi> (in regno Caſtellae.)</item>
+                     <item>
+                        <hi>Compoſtellana.</hi> (in regno Galliciae.)</item>
+                     <item>
+                        <hi>Eborenſis.</hi> (in Luſitaniâ.)</item>
+                     <item>
+                        <hi>Gandiana.</hi>
+                     </item>
+                     <item>
+                        <hi>Granatenſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Hiſpalenſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Ileridenſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Majoricana.</hi> (Aliter vocata Lulliana.)</item>
+                     <item>
+                        <hi>Onnedenſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Oſcana.</hi>
+                     </item>
+                     <item>
+                        <hi>Oſſunenſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Salmanticenſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Sequenſana.</hi>
+                     </item>
+                     <item>
+                        <hi>Toletana.</hi>
+                     </item>
+                     <item>
+                        <hi>Valentina.</hi>
+                     </item>
+                     <item>
+                        <hi>Valiodoletana.</hi>
+                     </item>
+                     <item>
+                        <hi>Valliſoletana.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Italia 11.
+<list>
+                     <item>
+                        <hi>Bononienſis.</hi> à Theodofio Im<g ref="char:EOLhyphen"/>peratore fundata. <hi>Ann. Dom.</hi> 425.</item>
+                     <item>
+                        <hi>Ferrarienſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Florentina.</hi>
+                     </item>
+                     <item>
+                        <hi>Mediolanenſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Patavina.</hi> (à Carolo mag<g ref="char:EOLhyphen"/>no inſtituta.)</item>
+                     <item>
+                        <hi>Papienſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Peruſina.</hi>
+                     </item>
+                     <item>
+                        <hi>Piſana.</hi>
+                     </item>
+                     <item>
+                        <hi>Romana.</hi>
+                     </item>
+                     <item>
+                        <hi>Senenſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Taurienſis.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Polonia 3.
+<list>
+                     <item>Cracovienſis <hi>ſeu</hi> Graccovienſis <hi>à fundatore urbis Graccho dicta. <g ref="char:V">Ʋ</g>nde prodiit</hi> Catechiſmus <hi>iſte nu<g ref="char:EOLhyphen"/>per ex merito flammis traditus manu Carnificis, cùm ſit blaſphemiis in Filium &amp; Spiritum S. refertiſſimus. Cui hoc inſcribi jure poterat,</hi> 
+                        <gap reason="foreign" resp="#OXF" extent="1 span">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</item>
+                     <item>
+                        <hi>Poſnenſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Samoſciana.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Scotia 3.
+<list>
+                     <item>
+                        <hi>Aberdonienſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Glaſquenſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Sanctandreae.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <q>
+               <l>
+                  <hi>Sic erat in fatis: Poſtrema eſt</hi> Scotia, <hi>nullum</hi>
+               </l>
+               <l>
+                  <hi>Quae ſanè ob mores debet habere locum.</hi>
+               </l>
+            </q>
+         </div>
+         <div xml:lang="lat" type="to_Oxbridge_men">
+            <pb facs="tcp:118153:3"/>
+            <head>Genuinis Muſarum Myſtis, Legitimis utriuſque <hi>Academiae</hi> filiis, Salu<g ref="char:EOLhyphen"/>tem in <hi>Ieſu Chriſto</hi> plurimam. <hi>P.A.L.</hi>
+            </head>
+            <p>NE cui fit offendiculo, bilemve moveat, quòd <hi>Cantabrigiam</hi> hîc praefixerim <hi>Oxonio:</hi> Nôrint <hi>Univerſi,</hi> poſt replicatos annales temporum, poſt reſerata monumenta veterum, me (qui veritati, non partibus ſtudeo) pro compertiſſimo habuiſſe, deberi primas, (<hi>antiquitatis</hi> ergo) <hi>Grandaevae</hi> noſtrae matri <hi>Academiae.</hi> Quin apagè has nugas de <hi>Antiquitatis</hi> titulis, &amp; de inanis umbris gloriolae; <hi>Contentionis</hi> nullâ incenſi faculâ poſthac exardeamus; id ſolum operae impendamus aemuli, ut <hi>vitae</hi> integritate, ut <hi>artium</hi> &amp; <hi>virtutum</hi> inſtructi choragio, ut <hi>Charitate, humilitate, contemplationis</hi> ſtudio, &amp; <hi>morum</hi> exemplo alii aliis praeluceamus; Non tàm anxiè curantes quinam pri<g ref="char:EOLhyphen"/>ores ſimus, quàm ne priùs pereamus. Hoc tantùm apponam, quod vir Doctiſſimus innuit, ut amplificen<g ref="char:EOLhyphen"/>tur <hi>Scholae,</hi> requiri in <hi>magiſtratu</hi> paternum erga <hi>Scholas</hi> affectum &amp; animum, qui cernitur in amore <hi>literatorum, Privilegiorum</hi> tutelâ, &amp; munificentiâ erga <hi>literarum</hi> cultores: Tam benevolè affectos <hi>magiſtratus</hi> habui<g ref="char:EOLhyphen"/>mus, ut porrò habeamus uſque, apud <hi>Deum</hi> obnixè precibus <hi>contendamus.</hi>
+            </p>
+            <epigraph>
+               <q>
+                  <p>Florente <hi>Republicâ</hi> literis omnibus honor maxi<g ref="char:EOLhyphen"/>mus fuit: nihil in eâ urbe majus, nihil opta<g ref="char:EOLhyphen"/>bilius literis &amp; doctrinâ extitit.</p>
+                  <bibl>
+                     <hi>Blondus de Repub. Romanâ.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:118153:4"/>
+            <head>To all ſincere and true-hearted <hi>Chri<g ref="char:EOLhyphen"/>ſtians,</hi> Lovers of <hi>Learning, Truth</hi> and <hi>Peace.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He <hi>Jews</hi> have a ſaying not more ſhort then ingenuous, that <hi>Truth ſtands upon two Legs, and a Lye upon one:</hi>
+               <note place="margin">
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Talm.</hi>
+               </note> Their mean<g ref="char:EOLhyphen"/>ing is, That as <hi>Falſhood</hi> and <hi>Haereſie</hi> fall at the length of themſelves without any contradiction, ſo, <hi>Truth</hi> is and ever was firme, ſtable, and laſting getting ground growth, and ſtrength by oppoſition. By this meanes many <hi>Queſtions</hi> which lay hid, and as it were buryed in the grave of ſilence, are raiſed, diſcuſſed, and evidenced even to vulgar capacities.</p>
+            <p>S. <hi>Auguſtine</hi> in his <hi>18. l. de Civ. Dei, cap. 51.</hi> Treating of <hi>Haereticks,</hi> and proving that the <hi>Catholick</hi> faith is ſtrengthned and confirmed by haereticall diſſentions, ſayes thus of falſe Teachers, <hi>Habentur in exercentibus inimicis,</hi> &amp;c. <hi>They are to be put into the file or num<g ref="char:EOLhyphen"/>ber of thoſe enemies who exerciſe the gifts and graces of Gods</hi> ſervants; who, like the Starres that ſhine brighteſt in the cold nights of Winter, are in times of Op<g ref="char:EOLhyphen"/>poſition more active then ever in Zeale, more Vigilant and circumſpect in their lives, (as thoſe <note n="*" place="margin">
+                  <hi>Dabant ope<g ref="char:EOLhyphen"/>ram per inculpa<g ref="char:EOLhyphen"/>tos mores ut illius dogma<g ref="char:EOLhyphen"/>ta non plus va<g ref="char:EOLhyphen"/>lerent.</hi> Sozom. lib. 6. cap. 27.</note> 
+               <hi>Religious</hi> men were in the dayes of <hi>Apollinaris;</hi> who laboured to out<g ref="char:EOLhyphen"/>ſhine him in ſtrictneſſe of life, knowing that by this his opinions thrived and prevailed.) Laſtly, more earneſt in their devotion and prayers to the <hi>Father of Lights,</hi>
+               <note n="*" place="margin">Jam. 1.17.</note> that the <hi>ſeduced</hi> may be undeceived, and the <hi>Seducers</hi> con<g ref="char:EOLhyphen"/>vinced
+<pb facs="tcp:118153:4"/>
+of their errours. This (not to be ſeen in <hi>Print,</hi> which is a poore piece of ambitious pride) is the ſcope of my penne, and the aime of my unworthy endeavours: Eſpecially now that <note n="*" place="margin">
+                  <hi>Hujus furſu<g ref="char:EOLhyphen"/>ris (ne dicam farinae) eſt Burtonus iſte, beſternae diei ho<g ref="char:EOLhyphen"/>mulus, cui do<g ref="char:EOLhyphen"/>ctrinam &amp; pic<g ref="char:EOLhyphen"/>tatem audaciae inauditae parem optamus.</hi>
+               </note> 
+               <hi>little birds,</hi> ſcarce fledgd or hatcht, flying with their ſhells upon their heads, and having only a feather or two of boldneſse in their faces, ſhall dare and that in the boſome of their <hi>Nurſe</hi> or <hi>Mother</hi> preach or rather prate againſt Learning, which they never had, and inveigh againſt <hi>Univerſities, quà tales,</hi> ſimply as <hi>Uni<g ref="char:EOLhyphen"/>verſities,</hi> of which they never deſerved to be Members.</p>
+            <p>
+               <hi>It is an ill bird, &amp;c.</hi> Every <hi>Engliſhman</hi> knowes what followes in the proverb. There are no ſuch enemies to <hi>Learning</hi> as the Malitious and Ignorant.</p>
+            <p>It was my happineſſe of late to meet with ſome <hi>Adver<g ref="char:EOLhyphen"/>ſaries,</hi> not perhaps ſo knowing, yet more candid then the former, <hi>Declamers</hi> againſt <hi>Academies,</hi> and men of more <hi>Chriſtian</hi> Spirits, not (as S. <hi>Auguſtine</hi> writes of the <hi>Do<g ref="char:EOLhyphen"/>natiſts</hi>)<note place="margin">Ep. 167.</note> 
+               <hi>pertinaciâ inſuperabiles,</hi> invincible and perti<g ref="char:EOLhyphen"/>nacious in their opinions, but ſuch whoſe mindes were tuned to that <hi>obedience</hi> and <hi>meekneſſe,</hi> that they after a long and mild debate yeelded, with thankfull acknowledg<g ref="char:EOLhyphen"/>ments and proteſtations of love, to my reaſons. And hereby declared plainly before the <hi>Congregation,</hi> that they were free from that whereof they were falſely ſuſpe<g ref="char:EOLhyphen"/>cted, <hi>i. e. Haereſie:</hi> agreeable to that of the Learned and moſt profound <hi>Auguſtine.</hi>
+               <note place="margin">Ep. 162.</note> 
+               <hi>Qui ſententiam ſuam quamvis falſam atque perverſam nullà pertinaci ani<g ref="char:EOLhyphen"/>moſitate defendunt, ſed veritatem cautâ ſolicitudine quaerunt, corrigi parati cùm invenerint, nequa quàm ſunt inter haereticos deputandi.</hi> The meaning of which words in brief is this, that <hi>He onely is to be counted an</hi> Haeretick <hi>who perſiſts with obſtinacie in an opinion which is againſt the</hi> word, <hi>not</hi> He, <hi>who erres, yet is rea<g ref="char:EOLhyphen"/>dy
+<pb facs="tcp:118153:5"/>
+to forſake his errour and yeeld to the</hi> Truth <hi>ſo ſoon as he is convinced of it.</hi>
+            </p>
+            <p>This pious and humble Temper was in thoſe my <hi>Anta<g ref="char:EOLhyphen"/>goniſts;</hi> for whoſe farther confirmation; and ſatisfacti<g ref="char:EOLhyphen"/>on to their modeſt deſires, together with the reſt of that populous Pariſh of <hi>Swacie,</hi> I have publiſhed the Diſcourſe with ſome enlargements, hoping that it will meet with as good ſucceſse (by <hi>Gods</hi> bleſsing on it) in the convi<g ref="char:EOLhyphen"/>ction of thoſe by whom it ſhall be peruſed, whoſe judge<g ref="char:EOLhyphen"/>ments perhaps have been formerly perverted by <hi>falſe Teachers;</hi> who <hi>beguile unſtable Soules, having hearts exerciſed</hi> (or overcome) <hi>with covetouſneſſe; curſed Children</hi> (they are children for their Ignorance) <hi>who forſaking the way of all righteouſneſs have gone aſtray, following the way of</hi> Balaam <hi>that made</hi> Iſrael <hi>to ſinne.</hi>
+               <note place="margin">2 Pet. 2.14.15. Jude ver. 11. Num. 25.2. 31 16.</note> Such blind guides as theſe have been the cauſe of many poore <hi>Soules</hi> falling into the ditch of <hi>Haereſie,</hi> which (if backed with obstinacy) is a barre that ſhuts men out of all hope of glory. This hereafter ſhall be proved in my an<g ref="char:EOLhyphen"/>ſwer to the ſecond Doubt.</p>
+            <p>May the <hi>Infinite goodneſſe,</hi> (to whoſe onely glory I humbly deſire to devote my ſelfe and all my weake endea<g ref="char:EOLhyphen"/>vours) make them as uſefull and beneficiall in the <hi>con<g ref="char:EOLhyphen"/>firming</hi> and <hi>reforming</hi> of weak deceived Soules, as they are well meant and intended to the Churches good, by the unworthieſt of his ſervants: who am likewiſe, <hi>Chriſtian Reader,</hi>
+            </p>
+            <closer>
+               <signed>Thine in <hi>Chriſt Ieſus,</hi> R. BOREMAN.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="query">
+            <pb n="1" facs="tcp:118153:5"/>
+            <head>A SHORT VINDICATION OF THE Uſe and Neceſsity of <hi>
+                  <g ref="char:V">Ʋ</g>niverſities,</hi> and other <hi>Schooles</hi> of Learning; Being An <hi>Anſwer</hi> to the firſt <hi>Quere, What need is there of <g ref="char:V">Ʋ</g>niverſities?</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>T is truly obſerved by a learned <note n="*" place="margin">Gentillet. exam. Concil. Triden. Li. 1. Sect. 7. 8. <hi>Ignorantiam &amp; Romanae ſedis autoritate<g ref="char:cmbAbbrStroke">̄</g> ſimul auctam, &amp;c. Viciſſimque ut bonarum artium &amp; literarum in<g ref="char:EOLhyphen"/>ſtauratione fa<g ref="char:EOLhyphen"/>ceſſere caepit ig<g ref="char:EOLhyphen"/>norantia ita &amp; Pontificis auto<g ref="char:EOLhyphen"/>ritas paulatim imminui &amp; la<g ref="char:EOLhyphen"/>baſcere viſa eſt.</hi>
+               </note> Writer that the <hi>Pope</hi> of <hi>Rome,</hi> and that <hi>Church</hi> never flew higher in power, never ſunk deeper into errour then when <hi>Ignorance</hi> prevailed, and <hi>Learning</hi> was ſuppreſſed. Wee may as ſafely, and with as much truth aſſert, That where the purity of <hi>God's Word</hi> is corrupted, and not preſerved in it's integritie, that <hi>Kingdome, Church,</hi> or <hi>State</hi> cannot but fall into ruine, and moulder away into diviſions cauſed by the multiplicity of falſe Opinions, which being joyned with <hi>Schiſme,</hi> doe often (as they have now done) engender, and beget a monſter, the ſubver<g ref="char:EOLhyphen"/>ter of all Government, and the diſturber of Peace, the nurſe of <hi>Religion. This</hi> and <hi>Learning</hi> wee may fitly reſemble to the great Luminaries of Heaven, the <hi>Sunne</hi> and <hi>Moone,</hi> both for their light and influence. And as for the preſerving the entire luſter of the <hi>Moone,</hi> there is required a continuall emanation of light from the <hi>Sunne;</hi> So <hi>Learning</hi> borrowes it's true light from <hi>Religion,</hi> without which a man having a learned Head and an unſanctified Heart, is the fitteſt Agent and beſt Inſtrument for the <hi>Devill</hi> to doe miſchief with: But now here is the difference
+<pb n="2" facs="tcp:118153:6"/>
+between that leſſer Luminarie and <hi>Learning,</hi> in that reſemblance; The <hi>Moone</hi> repaies no tribute, conferrs no benefit to the <hi>Sunne,</hi> but <hi>Learning</hi> by way of reflection conduces much (if not to the being preciſely taken, at leaſt) to the happy and well being of <hi>Religion.</hi> Theſe two, like <hi>Eros</hi> and <hi>Anteros</hi> in the Fable of the Poets, are ſick and well both at a time. <note place="margin">G Naz. Orat. 3.</note> 
+               <hi>Julian</hi> the Apoſtat underſtood this well when hee put down by a poblike Edict the <hi>Schooles</hi> where the Children of Chriſtians were to be educated; So did <hi>Pope</hi> 
+               <note n="†" place="margin">Platin. in vita ejus.</note> 
+               <hi>Paulus</hi> the ſecond when hee abſurdly pronounced thoſe Hereticks, that did either in jeſt or earneſt but uſe the Word Academie in their Tongues or Writings. The <hi>Jeſuites</hi> and their Factours, men ſubtile in their Generations, and active in their miſcheivous intentions, they know the ſame, and there<g ref="char:EOLhyphen"/>fore endeavour now to effect, (what of late one vauntingly ſaid in the Eares of a good Proteſtant would be done) that is, To deſtroy the <hi>
+                  <g ref="char:V">Ʋ</g>niverſities,</hi> and with them the <hi>Miniſtery</hi> and <hi>Religion.</hi>
+            </p>
+            <p>That the <hi>
+                  <g ref="char:V">Ʋ</g>niverſities</hi> ſo called as <note n="*" place="margin">Fab. Soranus in Theſauro.</note> one explaines the terme, becauſe the Circle of all the Arts and Sciences is in them ex<g ref="char:EOLhyphen"/>pounded or taught to young Students and others of all ſorts, Degrees and Callings whatſoever; That theſe <hi>
+                  <g ref="char:V">Ʋ</g>niverſities,</hi> and other <hi>Schooles</hi> of <hi>Learning</hi> (ſeedplots, and nurceries ſubordinat to them) are not onely profitable to the <hi>Church,</hi> but alſo ne<g ref="char:EOLhyphen"/>ceſſary for the maintenance of <hi>Religion</hi> ſo neceſſary, that without them, neither the Doctrine of the <hi>Gospell</hi> can be preſerved pure and uncorrupted, neither the <hi>Church,</hi> wherein wee live, ſtand ſure upon it's foundation, but will certainly be deſtroyed; This I ſhall endeavour to prove by a familiar climax or gradation, propoſed to vulgar capacities by way of queſtion.</p>
+            <p>Firſt, by what meanes can the <hi>Church</hi> be pure and free from <hi>Hereſies</hi> without the guidance, and light of the pure <hi>Word of God,</hi> the holy <hi>Scriptures?</hi>
+            </p>
+            <p n="2">2. How can that Word be preſerved in it's purity without the <hi>Miniſtery?</hi>
+            </p>
+            <p n="3">3. How can there be a <hi>Miniſterie</hi> without able and fit <hi>Miniſters</hi> to explaine and publiſh that <hi>Word</hi> purely without corruption? whoſe Office it is to act the parts of <hi>Truth's Champions,</hi> to defend it againſt ſeducing <hi>Hereticks,</hi> who (as
+<pb n="3" facs="tcp:118153:6"/>
+               <note n="†" place="margin">Tertul. lib. de praeſcript. <hi>Scrip<g ref="char:EOLhyphen"/>turas obtendunt &amp; hâc ſuâ auda<g ref="char:EOLhyphen"/>ciâ quoſdam movent, &amp;c.</hi>
+               </note> 
+               <hi>Tertullian</hi> well notes, <q rend="inline">
+                  <hi>evermore alleage Scripture to back and bolster out their abſurd Opinions, and by this their boldneſſe they move ſome, tire out thoſe that are ſtrong by their reſtleſſe disputes, take the weake in their Nets, and as for thoſe of a middle temper, theſe they ſend away full of doubts and ſcruples.</hi>
+               </q> And whence doe Hereſies ariſe, but from this (as St. <note n="*" place="margin">Aug. Tract. 18 in Evang Joh.</note> 
+               <hi>Auguſtine</hi> obſerves) <hi>dùm Scripturae bonae intelligantur non benè, &amp; quod in eis non benè intelligitur etiam temerè &amp; audactèr aſſeritur? &amp;c.</hi> i.e. <q rend="inline">"<hi>Whileſt the good Word of God is not well underſtood, and that which is not well underſtood is raſhly and boldly aſſerted for truth,</hi>
+               </q> &amp;c. Now in the fourth place. How can ſuch ſtout <hi>Champions,</hi> learned and faithfull Paſtours, be had without <hi>Schooles</hi> of lear<g ref="char:EOLhyphen"/>ning, the <hi>
+                  <g ref="char:V">Ʋ</g>niveſitirs?</hi>
+            </p>
+            <p>It will follow then by a neceſſary Illation or Conſequence that without <hi>
+                  <g ref="char:V">Ʋ</g>niverſities,</hi> out of which ſuch Learned, Wiſe, Orthodox and pious men may be called and produced to govern particular Congregations, and to ſit at the Helme of the <hi>Church;</hi> This cannot be preſerved ſecure and entire from Hereſies, but will be like the <note n="†" place="margin">
+                  <hi>Luke</hi> 8.23.</note> 
+               <hi>Ship</hi> wherein our <hi>Saviour was aſleepe,</hi> i.e. battered with tempeſts, and beaten with the waves of contrary Opinions.</p>
+            <p>For this cauſe wee finde in ancient Records, that not onely among the people of <hi>God,</hi> the ancient <hi>Jewes</hi> and <hi>Chriſtians,</hi> but alſo even among the <hi>Gentiles</hi> evermore in all ages, great care and diligence was uſed to ordaine and maintaine <hi>Schooles</hi> of learning, and to place in them holy and knowing men, whom they encouraged with large ſtipends, by whoſe paines and parts the liberall Arts and Sciences, together with the Doctrine of their Religion might be taught and faſtened in the people's Me<g ref="char:EOLhyphen"/>mories.</p>
+            <p>To omit the <hi>Schooles</hi> of the <hi>Gentiles,</hi> as of the <hi>Aegyptians</hi> (<note n="*" place="margin">
+                  <hi>Alſted. li.</hi> 24. <hi>c.</hi> 13. <hi>Encycl. Scholaſt. Heurn. primord. Philoſoph.</hi>
+               </note>to whom Learning and Arts were derived from the <hi>Jewes</hi>) likewiſe thoſe of the <hi>Chaldeans, Babylonians, Perſians, Greeks</hi> and <hi>Ro<g ref="char:EOLhyphen"/>mans,</hi> all which (to the ſhame of Chriſtians in theſe times) had learned, and men of Wiſdome in high eſtimation, eſpecially of Profeſſours and aſſertours of their Religion, ſuch were their <hi>Magi,</hi> their <hi>Gymnoſophiſts,</hi> their <hi>Philoſophers,</hi> their <hi>Augures</hi> or <hi>Sowthſayers;</hi> omitting theſe, I ſhall onely make a plaine diſ<g ref="char:EOLhyphen"/>covery
+<pb n="4" facs="tcp:118153:7"/>
+of the <hi>Schooles</hi> erected by the People of God, as well before as after Chriſt, and then leave it to the Judgments of diſ<g ref="char:EOLhyphen"/>creet and moderate Judges, whether a want of love to Religion, and the feare of God does not diſcover it ſelfe in the profane practiſes of thoſe men, who labour to pull down the <hi>Miniſtery</hi> (which is now the <hi>Jeſuits</hi> maine deſigne) by doing as the <note n="*" place="margin">
+                  <hi>Gen.</hi> 26.18.</note> 
+               <hi>Philiſtines</hi> did by the Wells of <hi>Abraham, i. e.</hi> by ſeeking to ſtop the Springs and Fountaines of Learning, into which they have thrown dirt and ſtones, by undeſerved ſlanders, and re<g ref="char:EOLhyphen"/>prochfull infamies.</p>
+            <p>
+               <note place="margin">Colledges and Schooles under the old Law.</note>If wee traverſe the ſtory of the old Teſtament, wee ſhall find that there were (and this not without the preſcript or com<g ref="char:EOLhyphen"/>mand of God) in the Kingdome of Iſrael Schooles conſtituted and opened to publick uſe; in ſome whereof were placed <hi>Levites,</hi> in others <hi>Prophets</hi> to teach and explicate the Law of God, to traine up Diſciples or <hi>Scholars,</hi> who afterwards ſhould teach either in the Temples or Synagogues, and propagate the Doctrine of the Law to ſucceeding Generations. For who were the Sonnes of the <hi>Prophets,</hi> of whom there is ſo often mention made in the Booke of the Kings; but thoſe that were ſtudents educated and brought up in thoſe <hi>Schooles,</hi> whereof the Prophets were heads and Governours?<note place="margin">1 <hi>Kings</hi> 20 35. 1 <hi>Kings</hi> 2.3.7.15.</note> This was the intent or meaning of the Prophet <hi>Amos,</hi> when hee ſaid, <hi>I am not a Prophet nor the Son of a Prophet,</hi>
+               <note place="margin">
+                  <hi>Amos</hi> 7.14.</note> i.e. never brought up in the <hi>Schooles</hi> of the learned Prophets.</p>
+            <p>What was the reaſon that the Lord commanded 48 Cities with their Suburbs to be aſſigned to the <hi>Levites</hi> above their Brethren of the other Tribes?<note place="margin">
+                  <hi>Numb.</hi> 35.2.</note> was it not for this, that in the Land of <hi>Iſrael</hi> there might be <hi>Schooles</hi> and <hi>Colledges,</hi> in the which the <hi>Levites</hi> might teach and inſtruct young Novices, their pupils, in the Law of <hi>God,</hi> and thereby fit them for the Offices of the Sanctuary?</p>
+            <p>Over theſe <hi>Schooles</hi> or <hi>Colledges</hi> there were ever placed men renowned for their Piety, Learning, Prudence, and Gravity of Manners, and thoſe choſen out of the <hi>Prophets</hi> and <hi>Levites.</hi> Thus <note n="†" place="margin">1 <hi>Sam.</hi> 29.28.</note> 
+               <hi>Samuel</hi> was the Prefect or Governour of the <hi>Schoole</hi> which was at <hi>Naioth</hi> in Mount <hi>Ramah;</hi> where was a Schoole and Scholers in the Raigne of <hi>Aſa,</hi> if we may believe the <hi>Talmudists,</hi>
+               <pb n="5" facs="tcp:118153:7"/>
+who ſay that hee was therefore puniſhed <hi>with lameneſſe in his Feete,</hi> 
+               <note place="margin">Vid. Buxtorf in <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 2 <hi>Chr.</hi> 16.12.</note> 
+               <q rend="inline">"becauſe hee compelled all the Wiſemen or Doctors of that place together with their Diſciples or Scholers, to leave their Studies and to take up Armes for his aide againſt <hi>Baaſha</hi> King of <hi>Iſrael.</hi>
+               </q> This they collect (how truly I will not deter<g ref="char:EOLhyphen"/>mine) out of the 1 of <hi>Kings</hi> 15.22. where it is ſaid that <hi>Aſa made a proclamation thorowout all Judah (none was exempted) and they tooke away the ſtones of Ramah, &amp;c.</hi> i. e. when the Scholars were all warned out by the King's Edict.</p>
+            <p>
+               <hi>Elias</hi> was the <hi>Praepoſitus</hi> or Maſter of the <hi>Schoole</hi> at <hi>Hierico:</hi>
+               <note place="margin">2 <hi>Kings</hi> 2.5.</note> In his place ſucceeded his Diſciple <hi>Eliſha,</hi> and ſo others after him in ſucceeding ages.</p>
+            <p>In the ſecond of <hi>Chron.</hi> 34.22. wee read of a Colledge in <hi>Hieruſalem:</hi>
+               <note place="margin">It is called there <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> which is as much as <hi>a double Houſe,</hi> ſo called by rea<g ref="char:EOLhyphen"/>ſon of it's two Courts.</note> wherein <hi>Huldah</hi> the <hi>Propheteſſe</hi> dwelt when <hi>Hilkiah</hi> went unto her with a meſſage from <hi>Joſiah.</hi> Doubtleſſe ſhee dwelt by her ſelfe in one of the Courts remote from the Pro<g ref="char:EOLhyphen"/>phets and their Sonnes, who were taught in the other. For Colledges indeed ought to be (what a Name that is given them by <hi>Euſebius</hi> does import) <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, places of gravity and ſeverity, which cannot well ſtand with a mixture of both Sexes in one and the ſame place. But to returne from this ſhort digreſſion;</p>
+            <p>To this end and purpoſe it likewiſe was, (I meane for the maintenance of <hi>Schooles</hi>) that the <hi>Levites</hi> under the Law had ſuch large incomes by Gods appointment; they had well nigh (as hath beene proved by mee in another <note n="†" place="margin">
+                  <hi>The Churches Plea, &amp;c. Sect.</hi> 10 <hi>p.</hi> 23.</note> Treatiſe) the fifth part of the Jewes Revenues, which large allowance was given them, that being free from all cares (to which the Miniſters of the Goſpell are too ſharply expoſed) they might, with the leſſe diſtraction, and more freedome of Spirit, devote themſelves wholy to their ſtudies, and their Miniſteriall Fun<g ref="char:EOLhyphen"/>ctions.</p>
+            <p>Againe, wee finde that the <hi>Jewes</hi> themſelves ever in after Ages endeavoured (even when they were diſpers'd amongſt the <hi>Gentiles</hi>) to retaine their Schooles which are called ſome<g ref="char:EOLhyphen"/>times <hi>Synagogues,</hi> although in a ſtrict ſence a <hi>Schoole</hi> and a <hi>Synagogue</hi> differs. <hi>Philo</hi> (as hee is cited by <hi>Grotius</hi> on St. <hi>Mat.</hi>)<note place="margin">
+                  <hi>Grot. in Mat.</hi> 4.23.</note> uſes the Names promiſcuouſly, and calls thoſe Synagogues
+<pb n="7" facs="tcp:118153:8"/>
+               <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> for that they did both Pray and Preach in them, and withall (as they doe now where they are) traine up their youth and exerciſe themſelves by diſputes and polemicall Diſ<g ref="char:EOLhyphen"/>courſes concerning the holy Scriptures: whereby they finde out many hidden Truths. This is the practiſe of <hi>Colledges</hi> in the <hi>
+                  <g ref="char:V">Ʋ</g>niverſities,</hi> by which meanes the <hi>Students</hi> learne to whet their Tongues in diſputes againſt the Truth's adverſaries, thoſe of <hi>Rome,</hi> together with other Hereticks.</p>
+            <p>
+               <note place="margin">
+                  <hi>Colledges and Schooles under the Goſpell.</hi>
+               </note>In the ſecond place, That there were <hi>Colledges,</hi> places of publick concourſe even under the <hi>Gospell</hi> in the time of the <hi>Apoſtles</hi> at <hi>Hieruſalem,</hi> wee may collect or gather out of the Acts. <hi>And there were dwelling at Hieruſalem Iewes devout men out of every Nation under Heaven.</hi>
+               <note place="margin">
+                  <hi>Acts</hi> 2.5.</note>
+            </p>
+            <p>St. <hi>Luke</hi> records concerning our <hi>Lord Chriſt,</hi> that when hee went into the Synagogue, that is, the <note place="margin">
+                  <hi>Luke</hi> 4 15.17</note>
+               <note place="margin">
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>Schoole there was given to him,</hi> as to a Doctour, <hi>the Booke of the Scriptures,</hi> that hee ſhould explaine a portion or piece of them, which hee accord<g ref="char:EOLhyphen"/>ingly did to the amazement and conviction of thoſe that heard him. The ſame <hi>Apoſtle</hi> likewiſe reports,<note place="margin">
+                  <hi>Luke</hi> 2.42.46.</note> that when hee was twelve years of age he diſputed with the <hi>Doctours</hi> of the <hi>Schoole</hi> with great admiration. There were then <hi>Scholers, Colledges</hi> and <hi>Doctours</hi> in our Saviours time: How then dare any diſallow of thoſe which Chriſt himſelfe did approve of, ſo, as to go often into them, which hee did ſurely to demonſtrat and ſhew their neceſſity and uſe. They who ſpeake and act, by a bold oppoſi<g ref="char:EOLhyphen"/>tion, the contrary, by denying their uſe, to ſuch I may aptly retort, what S. <hi>Auguſtine</hi> did once in aother caſe to the <hi>Dona<g ref="char:EOLhyphen"/>tiſts,</hi>
+               <note place="margin">
+                  <hi>Aug. Ep.</hi> 171.</note> the true Pictures of our <hi>Separatiſts, Chriſtianos vos eſſe dicitis, &amp; Chriſto contradicitis;</hi> 
+               <q rend="inline">"<hi>you ſay you are Chriſtians, and contradict Chriſt in your Words and Actions,</hi>
+               </q> this cannot ſtand with Chriſtanity, which admits of no ſuch contra<g ref="char:EOLhyphen"/>dictions.</p>
+            <p>In the 6 of <hi>Luke verſ.</hi> 9. there is mention of the <hi>Synagogue</hi> or <hi>Colledge</hi> of the <hi>Libertines, Cyrenians</hi> and <hi>Alexandrians,</hi> and of them of <hi>Cilicia</hi> and <hi>Aſia,</hi> who diſputed with the Protomartyr St. <hi>Stephen.</hi>
+            </p>
+            <p>The ſame Apoſtle tells us how that St. <hi>Paul</hi> came from <hi>Tarſus</hi> of <hi>Cilicia</hi> unto <hi>Hieruſalem,</hi>
+               <note place="margin">
+                  <hi>Act.</hi> 22.3</note> where hee was <hi>inſtructed in the Law
+<pb n="6" facs="tcp:118153:8"/>
+of the Lord at the feet of Gamaliel.</hi> It was the faſhion or cuſtome then of the <hi>Scholers,</hi> to ſit at the feet of the Doctours, whence thoſe are called by the Rabbines, <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Pulveriſantes,</hi> from the duſt which they received thus ſitting below their <hi>Teachers.</hi> The forenamed <hi>Gamaliel</hi> was a <hi>Doctour</hi> or <hi>Teacher</hi> of the Law in the <hi>Academy</hi> of <hi>Hieruſalem,</hi> and Diſciple of that old <hi>Simeon,</hi>
+               <note place="margin">
+                  <hi>Luke</hi> 2.28.29</note> who tooke our <hi>Saviour,</hi> being then a Child, in his armes, and then ſung his <hi>Nunc Dimittis, &amp;c.</hi> his Swan-like Song, <hi>Lord now letteſt thou</hi> thy ſervant <hi>depart in peace, for mine Eyes have ſeene thy ſalvation,</hi> i. e. The <hi>Lord Chriſt,</hi> who is mercy and ſalvation clothed in fleſh.</p>
+            <p>That <hi>Schoole</hi> or <hi>Colledge</hi> of <hi>Hieruſalem</hi> had many famous <hi>Doctours</hi> one after another ſucceſſively in after dayes, amongſt whom was <hi>Rab. Hillel,</hi> who lived an hundred years before the Deſtruction of the <hi>Temple</hi> by <hi>Titus:</hi> of which <hi>Hillel</hi> we finde ſo many rare and pious ſayings in the <hi>Pirke Auoth,</hi> a Booke famous amongſt the Jewes for choyce Proverbs and grave Counſailes.</p>
+            <p>Wee read likewiſe of St. <hi>Paul,</hi>
+               <note place="margin">
+                  <hi>Acts</hi> 18.28</note> that after his converſion hee went often into the <hi>Synagogues</hi> or <hi>Scholers</hi> of the Jewes, and mightily <hi>convinced them that Jeſus was the Meſſias</hi> (or the <hi>Chriſt) and perſwading the things concerning the Kingdome of God.</hi>
+            </p>
+            <p>There is mention in the Acts of the <hi>Schoole</hi> of one <hi>Tyrannus:</hi>
+               <note place="margin">
+                  <hi>Acts</hi> 17.8</note> it was erected by one who was ſo called by his proper Name, as <hi>Beza</hi> proves by many teſtimonies againſt <hi>Eraſmus,</hi> and others, and with him in this the <hi>Syriack</hi> agrees; which, as <hi>Salom. Glaſſius</hi> notes,<note place="margin">Glaſſ. Phyſiol. Sac.</note> is the fitteſt to determine any doubt or contro<g ref="char:EOLhyphen"/>verſie bordering upon a word of phraſe in the New Teſtament, as the <hi>Caldee paraphraſe</hi> in the Old.</p>
+            <p>To omit that famous <hi>Schoole</hi> in <hi>Aſia</hi> at <hi>Epheſus</hi> erected by St. <hi>John</hi> the <hi>Apoſtle,</hi> in which <hi>Polycarpus</hi> and <hi>Ireneus</hi> were Scho<g ref="char:EOLhyphen"/>lers, with many other famous Biſhops and Martys for the Truth of <hi>Christ.</hi>
+            </p>
+            <p>Likewiſe that in <hi>Palaeſtina</hi> of <hi>Caeſarea,</hi> in which <hi>Gregory</hi> Biſhop of <hi>Neoceſarea</hi> was brought up.</p>
+            <p>Alſo that in <hi>Alexandria,</hi> the moſt famous in the whole World, where (as St. <hi>Hierome</hi> atteſts) from the dayes of St. <hi>Marke</hi>
+               <pb n="8" facs="tcp:118153:9"/>
+the Evangeliſt many and great Doctours flouriſhed, as, <hi>Pataenus, Clemens Alexandrinus, Origen, Hieracles, Dionyſius,</hi> with many others.</p>
+            <p>To the forenamed wee might adde that of <hi>Byzantium</hi> in Greece, where St. <hi>Baſil</hi> that <note n="†" place="margin">
+                  <hi>Vid. Poſſouin. in vita</hi> Baſil.</note> 
+               <hi>Demoſthenes</hi> amongſt the Fathers (for his ſublime elegancy ſo called) was educated, hee was Brother to that Learned <hi>Nazianzen</hi> who (being indeed, a Magazeen of all kind of Learning) in worthily called, <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the Divine.</hi>
+            </p>
+            <p>To this of <hi>Byzantium</hi> might be adjoyned that of <hi>Tiberias</hi> in <hi>Galilee</hi> by the Lake of <hi>Genneſareth,</hi>
+               <note place="margin">
+                  <hi>Vid. Buxtorf in Tiberiad.</hi>
+               </note> ſo famous for the <hi>Maſorites,</hi> thoſe laborious Textuaries and Cabaliſts amongſt the Jewes.</p>
+            <p>But omitting the farther diſcuſſing and opening of theſe <hi>Schooles</hi> or <hi>Colledges,</hi> (whereby I might farther evince by demon<g ref="char:EOLhyphen"/>ſtrative Arguments the neceſſity of <hi>Learning</hi> and Learned men: as ſo many Pillars to ſuſtaine the vaſt Fabrick of a <hi>Church, Kingdome,</hi> or <hi>State,</hi> from crumbling into duſt, and mouldring into ruine) I ſhall onely ſubjoyn what now followes by way of a concluding Pareneſis, or Exhortation to men of vulgar conceits and m ſled Phanſies.</p>
+            <p>Let them runne back in their thoughts, and looke upon the Story of our <hi>Church</hi> in former Ages. Who were they that gave the <hi>Pope</hi> and his Factours their deadly wounds, ſtabbing them at the Heart with the ſharpe weapons of their acute Arguments, who did this glorious worke, but firſt a <hi>Jewell,</hi> a Biſhop? who was the firſt that in a Sermon at <hi>Paul's Croſſe</hi> made a publick Challenge to all the <hi>Papiſts</hi> in the World,<note place="margin">Godwin. <hi>in vita<g ref="char:cmbAbbrStroke">̄</g> ejus</hi> p. 409.</note> to pro<g ref="char:EOLhyphen"/>duce but one cleer and evident Teſtimony out of <hi>Scripture,</hi> or any <hi>Father,</hi> or other famous Writer within ſix hundered years after <hi>Chriſt,</hi> for any one of the many Articles which the <hi>Ro<g ref="char:EOLhyphen"/>maniſts</hi> at this day maintaine againſt us, and upon good proofe of any one ſuch good allegation, hee promiſed to yeeld them the Bucklers and reconcile himſelfe to <hi>Rome.</hi> And although <hi>Harding</hi> and ſome others undertooke him and enter'd into the Liſts with Him about the 27 controverted Articles, yet they came off poorly, and <hi>Jewell</hi> on the contrary with Triumphant Victory, having ſo amazed and confounded them with a cloud
+<pb n="9" facs="tcp:118153:9"/>
+of witneſſes in every poynt, that (as Biſhop <hi>Godwin</hi> reports of him,<note place="margin">
+                  <hi>Page</hi> 410.</note> 
+               <q rend="inline">"<hi>Dici non poteſt quantum haec res Pontificiorum apud nos vires fregerit, exiſtimatione minuerit, ac praeſertim poſtquam Hardingi frigida reſponſione errorum ab illi recenſitorum novitas patuerit,</hi>
+               </q> 
+               <hi>i.e.</hi> It cannot be ſaid how this thing broke the hearts and weakned the force of the <hi>Pontificians,</hi> with the loſſe of their eſteeme and credit in theſe parts, eſpecially when after the frigid or cold anſwer of <hi>Harding</hi> the <hi>Jeſuit,</hi> the novelty of their opinions was plainly diſcovered.</p>
+            <p>This glorious <hi>Champion</hi> of <hi>Truth</hi> for his rare and admirable parts and gifts both naturall, and ſupernaturall, did every way correſpond to his gracious and pretious name; Hee was a rich <hi>Jewell</hi> conſiſting of many gems, ſhining as well in his Life as his incomparable Writings: <hi>Lord</hi> adorne and enrich thy <hi>Church</hi> continually with ſuch <hi>Jewells,</hi> deck her Cheeks with rowes of ſuch Rubies, her neck with ſuch glorious chaines, &amp;c. Hee was borne in <hi>Devonſhire,</hi> bred up at <hi>Oxford,</hi> 
+               <note n="†" place="margin">Firſt in <hi>Mert<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> afterwards in <hi>Corpus Chriſti</hi> Colledge.</note> and if it lay at my mercy, to ſave or deſtroy it, I ſhould ſpare it, becauſe it bred ſuch a <hi>Pillar</hi> of <hi>Truth,</hi> and the ſcourge of <hi>Rome,</hi> as the Con<g ref="char:EOLhyphen"/>querour ſpared <hi>Syracuſa,</hi> becauſe hee found in it an <hi>Archi<g ref="char:EOLhyphen"/>medes.</hi>
+            </p>
+            <p>With him wee may parallel our famous <hi>Whitgift,</hi> who was contemporary with him; For, the former dyed, <hi>Anno.</hi> 1571. this latter was inſtalled Biſhop of <hi>Worceſter, Anno.</hi> 1577. &amp; after<g ref="char:EOLhyphen"/>wards Archbiſhop of <hi>Canterbury</hi> 1583. Hee was borne in <hi>Lin<g ref="char:EOLhyphen"/>colneſhire,</hi> bred here at <hi>Cambridge,</hi> firſt in <hi>Pembrook Hall,</hi> after<g ref="char:EOLhyphen"/>ward fellow of <hi>Peterhouſe,</hi> and not long after, hee being of rare and eminent parts, was made preſident of <hi>Pembrooke Hall,</hi> next Maſter of <hi>Trinity Colledge,</hi> in which time hee was, firſt, the <hi>Margaret,</hi> then the <hi>Kings Profeſſor</hi> of Divinity. This match<g ref="char:EOLhyphen"/>leſſe patterne of prudence and patience, did ſtand as ſtoutly, as the former, in the defence of the Truth, againſt our home bred <hi>Innovatours,</hi> who (as our learned <hi>Camden</hi> in his <hi>Annalls</hi>) trampled on all Government, and, making <hi>Phanſie</hi> the mi<g ref="char:EOLhyphen"/>ſtreſſe of their judgement, pride and a zealous ignorance being their guides, they inveighed againſt the <note n="†" place="margin">
+                  <hi>Elizah.</hi>
+               </note> 
+               <hi>Queenes</hi> authority, and herein ſpake the Language of <hi>Aſhdod,</hi> acted highly for the <hi>Jeſuits,</hi> denied uniformity in Divine worſhip, although eſta<g ref="char:EOLhyphen"/>bliſh'd
+<pb n="10" facs="tcp:118153:10"/>
+by the authority of <hi>Parliament,</hi> ſever'd the Adminiſtra<g ref="char:EOLhyphen"/>tion of the Sacraments from the preaching of the Word; <note place="margin">
+                  <hi>Sacramentorum adminiſtratione<g ref="char:cmbAbbrStroke">̄</g> à verbi divini praedicatione ſe jungebant.</hi> Camd.</note> 
+               <hi>No<g ref="char:EOLhyphen"/>vos ritus pro arbitrio in privatis edibus uſurpabant, &amp;c.</hi> They neglected and deſpiſed the Sacraments (forgetting that God will not ſave us without the uſe of the meanes.) They refuſed to go to <hi>Church,</hi> thus making a dangerous <hi>Schiſme,</hi> and rending the ſeamleſſe coat of Chriſt, <hi>Pontificiis plaudentibus, multoſque in ſuas partes trahentibus, quaſi nulla eſſet in Eccleſiâ Anglicanâ unitas;</hi> Hereby they made our adverſaries to rejoyce and triumph over us, and were the cauſe of many weake ones tur<g ref="char:EOLhyphen"/>ning <hi>Papiſts,</hi> upon this ground, that there was no unity in our <hi>Church.</hi> (I feare our <hi>Separatiſts</hi> have now cauſed the like, if not worſe, miſchief, in the revolt of many thouſand from us.) Thoſe <hi>Chams,</hi> men of hot and fiery Spirits, who inveighed againſt their <hi>Fathers,</hi> and uncovered their <hi>Mothers</hi> nakedneſſe; Thoſe <hi>Scindentes</hi> (as <note n="†" place="margin">
+                  <hi>Aug. l. de Civit. Dei</hi> 16. c. 2 <hi>comparat Chamo haereticos li.</hi> 4. c. 43.</note> 
+               <hi>Irenaeus</hi> well calls them) to which hee joynes <hi>elati &amp; ſuperbi,</hi> thoſe proud, high-minded, daring <hi>Schiſmaticks,</hi> that Reverend, Learned, and moſt patient <hi>Whitgife</hi> quell'd and ſuppreſſed in a ſhort time by his diſcreet meekneſſe, and gentle exhortations to peace; firſt ſtopping, by arguments, the mouths of their <hi>Anteſignani</hi> their Leaders, (as <hi>Cartwright</hi> and others) this hee did by diſputes and mild perſwaſions to peace, and at laſt having by a patient courage overcome many ſtrong oppoſitions from the <hi>Nobles</hi> and their adherents, abettours in that ſchiſme, by Gods bleſſing hee reſtored the Church to unity and concord both in <hi>Doctrine</hi> and <hi>Diſcipline.</hi> Who but a man of great learning and grace could have done this, and been the inſtrument of ſetling in a diſtracted <hi>Kingdome</hi> an univerſall Peace?</p>
+            <p>Let mee adde to theſe, one, though of a lower ranke in the Church, yet not much inferiour in gifts of nature, and grace, the renowned <hi>Whitakers,</hi> firſt Scholar, and after Fellow of <hi>Tri<g ref="char:EOLhyphen"/>nity Colledge,</hi> famous for his admirable skill in the Arts and Tongues: as for his Excellency in the knowledge of <hi>Divinity,</hi> his famous workes now extant, his confutation of <hi>Campian, Sanders, Duraeus, Rainolds, Stapleton,</hi> nay of <hi>Bellarmine</hi> him<g ref="char:EOLhyphen"/>ſelfe, with whom then living this our <hi>Champion</hi> encountred; Hee confounded the former, proving the <hi>Pope</hi> to be <hi>Antichriſt,</hi>
+               <pb n="11" facs="tcp:118153:10"/>
+and maintaining the authority of the <hi>Scriptures</hi> above the Church, and at laſt ſingling out the <note n="†" place="margin">
+                  <hi>Bellarmine.</hi>
+               </note> 
+               <hi>Cardinall</hi> himſelfe, the <hi>Goliah</hi> of <hi>Rome,</hi> hee ſtunned him ſo with the ſtrength of prevailing <hi>Truth</hi> and reaſon, in his controverſies concerning the Church, <hi>Scrip<g ref="char:EOLhyphen"/>tures</hi> and <hi>councells,</hi> &amp;c. That the Cardinall (it ſeemes, fi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt convinced by his argumentions) having him in high eſtimation, procured his Picture, and hung it in his ſtu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y among the por<g ref="char:EOLhyphen"/>traitures of other noted men, and was heard to ſay, <hi>That though hee was an Heretick, yet hee was a Learned one.</hi> Never any ſaying had more of Falſity and Truth in it. When he con<g ref="char:EOLhyphen"/>feſſed him to be learned, it was all one as if hee had ac<g ref="char:EOLhyphen"/>knowledged that he was by him confuted. What firmer teſtimo<g ref="char:EOLhyphen"/>ny then that which falls from the Lips of a profeſſed Enemy?</p>
+            <p>To theſe forenamed Worthies, I might adde the late Reverend Biſhop of <hi>Salisbury, Davenant,</hi> the now living, and moſt knowing Prelats, <hi>Armach,</hi> and <hi>Morton,</hi> true nurſing <hi>Fathers</hi> of the Church, fed with their <hi>Doctrine,</hi> and defended by their Pennes, which they have with great ſucceſſe dipped in the Inke of confutation againſt <hi>Jeſuites</hi> and <hi>Hereticks.</hi> 
+               <note place="margin">2 Sam. 23.12.20.</note>
+               <hi>The Lord hath done great things by theſe Benaiahs,</hi> and <hi>wrought great victo<g ref="char:EOLhyphen"/>ries</hi> by meanes of their painfull works againſt our Adverſaries. Could theſe famous, uſefull, and Church-preſerving acts, with many hundred more which have beene effected by men of parts, could theſe mighty things have beene done without Learning; could this have been attained without the helpe and further<g ref="char:EOLhyphen"/>ance of publike Schooles and Univerſities? I ſuppoſe no man is ſo wanting to Truth and Modeſty as to ſay it. This made <hi>Alphonſus</hi> King of <hi>Arragon,</hi> beare an open Booke in his Scutchi<g ref="char:EOLhyphen"/>on, to teſtifie thereby to the World his high eſteem of learning, as being the prop of <hi>Religion,</hi> and the Pillar of a State and Kingdome.<note place="margin">
+                  <hi>Middendorp. l. de Academ.</hi> 1. <hi>p.</hi> 104.</note> And therefore <hi>Charles</hi> the Great whereſoever hee erected a Church, there hee ever annexed a <hi>Schoole</hi> of Lear<g ref="char:EOLhyphen"/>ning unto it. Oh then let not the undermining and crafty <hi>Jeſuits</hi> (who now ſwarme amongſt us) blow any longer this poyſon into your Eares; believe not the voyce of theſe <note n="†" place="margin">
+                  <hi>De his vid. Franzii Hiſtor.</hi> S. p. 1. c. 20.</note> 
+               <hi>Hyaenas</hi> who may ſpeake like Men, nay like <hi>Angells,</hi> but within are ravening <hi>Wolves</hi> and ſavage Beaſts. Their common Trade and Worke now is to cry downe Learning, and the Fountaines of
+<pb n="12" facs="tcp:118153:11"/>
+it, the <hi>
+                  <g ref="char:V">Ʋ</g>niverſities:</hi> They know that their cauſe cannot thrive ſo long as Learning does flouriſh: Theſe <note n="*" place="margin">
+                  <hi>De his vid. Solinum.</hi>
+               </note> 
+               <hi>Solifugae</hi> hate that confounding light; Theſe Frogs love to croake in the black Night of Ignorance, They ever digge their Mines in darkneſſe. The Traitour <hi>Faux</hi> and his dark Lanthorne was a true embleme of a <hi>Jeſuit,</hi> who has ſome light within which makes him ſinne againſt his conſcience, yet that light wrapped up and obſcured by malice, which forces him to act in defence of the Catholick cauſe, and contrive any bloody wickedneſſe.</p>
+            <p>And now is his <hi>Harvest,</hi> who loves to fiſh in troubled waters, Hee hath put forth the Sickle of his undermining policy to cut downe the <hi>Clergy</hi> and the <hi>
+                  <g ref="char:V">Ʋ</g>niverſities,</hi> witneſſe the late Peti<g ref="char:EOLhyphen"/>tions againſt <hi>Tithes,</hi> and that other from ſome miſtaken ones in the County of <hi>Bedford,</hi> who little dreame that they are now plowing with the <hi>Jeſuites</hi> 
+               <note n="*" place="margin">Judg. 14.18.</note> 
+               <hi>Heiſter,</hi> who have cloſely contrived thoſe Petitions, and incenſed the <hi>Countrey-men</hi> againſt <hi>Church<g ref="char:EOLhyphen"/>men</hi> and <hi>Scholers.</hi> For ſhame, worke not any longer in this bloody Field; be not <hi>Dayes-men</hi> to theſe men of <hi>Darkneſſe,</hi> what they have covertly contrived, do not thou attempt open<g ref="char:EOLhyphen"/>ly and in publick. Believe it, if the <hi>Pipes</hi> be cut from the two <hi>Fountaines,</hi> if the revenews and meanes which flow from the Springs of Benefactours for Learning's maintenance, if they be taken away (which God I hope will prevent by his merci<g ref="char:EOLhyphen"/>full and over-ruling providence) Then (I truſt this then will never be) then wee ſhall ſee (I hope wee ſhall never ſee it) <note place="margin">Pſal. 8.14. Cant. 2.25. 2 Cor. 10.13.15. Mat. 7.15.</note>Theſe <hi>Wild Bores</hi> coming out of <hi>Rome's</hi> Wood and Wilder<g ref="char:EOLhyphen"/>neſſe, Theſe <hi>Foxes, deceitfull workers, Miniſters of Satan, Wolves in Sheepes clothing;</hi> They will, when they meete with no op<g ref="char:EOLhyphen"/>poſition, when the walls and watchmen are gone, breake with violence into the Vineyard, deſtroy it's pleaſant branches, devour it's Grapes, and (like thoſe <hi>Wolves</hi> in the Fable, when the Doggs at their perſwaſion were ſent away) They will prey upon the poore <hi>ſheepe,</hi> teare their fleece from their backs, devour their fleſh; In a word, when they want their <hi>Guard</hi> and <hi>watch,</hi> i.e. Orthodox <hi>Paſtours</hi> and ſound <hi>Doctours</hi> or <hi>Teachers,</hi> the one to inſtruct the Churches, the other to traine up Students in the <hi>Schooles,</hi> Then will the people be left as a prey to <hi>Hereticks,</hi> 
+               <note place="margin">2 Tim. 2.17.</note>
+               <hi>whoſe Doctrine will eate like a Gangrene,</hi> i.e. Speedily, Incurably,
+<pb n="13" facs="tcp:118153:11"/>
+Mortally. They will infect their Soules with poyſonous Opi<g ref="char:EOLhyphen"/>nions, and (as they have begun) with <hi>damnable Hereſies</hi> (to ſpeake in S. <hi>Peters</hi> Language)<note place="margin">2 Pet. 2.1.</note> which S. <hi>Paul</hi> reckons amongſt <hi>the fruits of the fleſh,</hi>
+               <note place="margin">Gal. 5.20.</note> and exclude men from the Heavenly inheri<g ref="char:EOLhyphen"/>tance. Of this Opinion was <hi>Ignatius</hi> a Scholar of the <hi>Apoſtles,</hi>
+               <note place="margin">
+                  <hi>Ignat. Ep ad Epheſ.</hi> 
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c.</note> who aſſures us that both <hi>ſeducing</hi> and <hi>ſeduced</hi> Hereticks ſhall periſh for ever, and that with as good reaſon as Theifes amongſt men are put to death. <hi>Hereticks</hi> rob mens Soules of <hi>God</hi> and the <hi>Truth;</hi> They ſhut men out of <hi>Heaven,</hi> and drive them into <hi>Hell.</hi> To prevent all theſe fatall miſchiefes, draine not (but rather encreaſe with augmentations) the <hi>Fountaines</hi> of <hi>Learning</hi> and <hi>Religion;</hi> if theſe be once dried up, a drowth of <hi>Truth</hi> will follow, and a deluge of Miſeries, when <hi>Barbariſme</hi> and <hi>Atheiſme</hi> with other horrid impieties ſhall abound in this Land, and overthrow the <hi>Church,</hi> 
+               <note n="*" place="margin">
+                  <hi>Vid. Midden. dorp. de Acade<g ref="char:EOLhyphen"/>miis.</hi> li. 1. c. 4. &amp; 8.</note> whoſe wellfare is contained (to<g ref="char:EOLhyphen"/>gether with the Common-wealth's) in the preſervation of <hi>Learning, Arts</hi> and <hi>Sciences,</hi> which I could prove more at large, did I not feare to load the Preſſe, and tire the Readers patience.</p>
+            <p>I ſhall conclude this firſt <hi>Quere</hi> with an open confeſſion, that in theſe tumultuous, diſordered Times, ſome dirt has gotten into our Fountaines, and mingled it ſelfe with our pure ſtreames; but, what was ever in all Ages, wee hope will not with aggra<g ref="char:EOLhyphen"/>vations be charged upon us, as the onely fault of ours. And I truſt that thoſe <hi>Bedfordians</hi> (who clamour againſt the <hi>
+                  <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>verſities</hi>) will be laid to ſleepe, and ſilenced by <hi>higher powers;</hi> neither doubt wee, but that thoſe, who have made ſuch loud cries and proteſtations for <hi>Truth,</hi> will not now at length (after ſo much ſpilling of blood in the defence of the <hi>Goſpell</hi> as was pretended) give themſelves the ſtab of a lie, by doing that, which will overthrow and lay <hi>Truth</hi> in the duſt, and ſetting up <hi>Falſhood</hi> with a painted Face, coloured with ſhewes of piety, and pretences of <hi>Godlineſſe. Quod averruncet Deus.</hi> As for my part I ſhall ever beg of <hi>God</hi> (and it is a piece of my daily devotions,) That hee would open the Eyes and mollifie the hearts of the <hi>ſeduced,</hi> and obdurat <hi>Seducers</hi> in this Age, That being reduced to the ſaving knowledge of the <hi>Truth,</hi> they may have good wills joyned with their great power to preſerve
+<pb n="14" facs="tcp:118153:12"/>
+the <hi>keriothſepher,</hi> the <hi>
+                  <g ref="char:V">Ʋ</g>niverſities</hi> and other <hi>Schooles,</hi> That from thence may come knowing men of <note n="*" place="margin">
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Chryſ.</hi>
+               </note> ſound Opinions and incorrupt lives, whereby they may outſhine <hi>Hereticks,</hi> and be able to refute and ſtop the mouths of <hi>Hereſies.</hi> Men well learned, of good Lives and lawfully ordained <hi>Miniſters,</hi> have a ſpeciall call to ſo great a worke, they have a bleſſing promiſed on their labours; and may ſuch be ever bleſſed who are lovers of <hi>Peace,</hi> and <hi>Truths</hi> defenders.<note place="margin">Mat. 28.20. I am with you.</note>
+            </p>
+         </div>
+         <div n="2" type="query">
+            <head>The ſecond QUERE, <hi>Who is an Heretick, and what is Hereſie?</hi>
+            </head>
+            <p>AMongſt many convincing Arguments to prove the great<g ref="char:EOLhyphen"/>neſſe of the evill and danger of <hi>Hereticks,</hi> ſome have been drawn from the great paines, and coſt, which the primitive <hi>Church</hi> imploid and ſpent to extinguiſh the flame or fire of <hi>Hereſies,</hi> whereſoever and whenever it was unhappily kindled; This is atteſted by the learned <note n="*" place="margin">
+                  <hi>Ep.</hi> 3. <hi>ad Ar<g ref="char:EOLhyphen"/>mand. Ieſuit.</hi>
+               </note> 
+               <hi>Chamierus</hi> in an Epiſtle to <hi>Armandus, Scimus quantis olim ſudoribus Epiſcopi Catholici He<g ref="char:EOLhyphen"/>reticos redarguerint, &amp; quantis ſumptibus orthodoxi Imperatores eos repreſſerint.</hi> Thus from the great care and ſolicitude of the <hi>Phyſician,</hi> from the price and coſt of the <hi>Phyſick,</hi> or remedies, wee may judge of the grievouſneſſe and danger of the Diſeaſe.</p>
+            <p>Againe, another argument to prove the greatneſſe of this evill may be deduced from the raging Anger, and impatient wrath, which ever appeared, and brake forth in thoſe ancient <hi>Chriſtians,</hi> who were patterns of humility and rare examples of meekneſſe, yet being falſly accuſed of <hi>Hereſies,</hi> and branded with the name of <hi>Heretick,</hi> could not with any patience heare and endure it. Wee read in the <note n="*" place="margin">
+                  <hi>Part.</hi> 2. <hi>de Patient. &amp; humilit.</hi>
+               </note> lives of the Fathers, of one <hi>Agatho,</hi> whoſe name ſpeakes him as hee was, a <hi>good man</hi> and moſt devout, that having held his peace, in imitation of his meeke Saviour, at the propoſall of many crimes falſly object<g ref="char:EOLhyphen"/>ed and maliciouſly laid to his Charge, yet at the name of <hi>Here<g ref="char:EOLhyphen"/>ſie</hi>
+               <pb n="15" facs="tcp:118153:12"/>
+(being called <hi>Heretick,</hi>) he was very much moved, and moſt wrathfully diſpleaſed.</p>
+            <p>This made <hi>Ruffinus</hi> (as hee is cited by <note n="*" place="margin">
+                  <hi>Part.</hi> 1. <hi>c.</hi> 6. <hi>Defenſ. Auglic. Eccl.</hi>
+               </note> Biſhop <hi>Jewell</hi>) ſay, <hi>Non eſt Christianus, qui notam haereſeos diſſimulat.</hi> i. e. Hee is no Chriſtian that can endure to be called <hi>Heretick.</hi> To this pur<g ref="char:EOLhyphen"/>poſe is that of S. <note n="†" place="margin">
+                  <hi>Ep.</hi> 6. <hi>ad Pam<g ref="char:EOLhyphen"/>mach.</hi>
+               </note> 
+               <hi>Hierome, Nolo in ſuspicione haereſeos quemquam eſſe patientem.</hi> It becomes every one with the greateſt care and induſtry to avoyd the very ſuſpition of <hi>Hereſie.</hi>
+            </p>
+            <p>Thus a meere imagination and falſe apprehenſion of being reputed and named <hi>Hereticks,</hi> exaſperated of late the Spirits of ſome well-meaning Chriſtians, and moved them to breake through all bounds of modeſty, by a publick demand of mee, before the Congregation, (in <hi>Swacie</hi> neer <hi>Cambridge</hi>)<note place="margin">Octob. 3d. 1652.</note> to de<g ref="char:EOLhyphen"/>liver my thoughts concerning <hi>Hereſie</hi> and <hi>Hereticks.</hi> To whom, (after a ſhort Preface to our enſuing conference) I thus re<g ref="char:EOLhyphen"/>plied with great affection to their ſoules, and (in obedience to the Apoſtles command, <hi>Gal.</hi> 6.)<note place="margin">Gal. 6.1. Yee which are ſpirituall re<g ref="char:EOLhyphen"/>ſtore, &amp;c.</note> with as much <hi>meekneſſe</hi> as I could, leſt that in the flame of Paſſion and heat of con<g ref="char:EOLhyphen"/>tention Truth ſhould ſinge her winges (as too oft ſhee hath done) and take her flight, leaving the parties wholy un<g ref="char:EOLhyphen"/>ſatisfied.</p>
+            <p>
+               <note place="margin">Who is an <hi>Heretick?</hi>
+               </note>Firſt, to avoyd all needleſſe queſtions, and endleſſe diſputes, wee muſt diſtinguiſh between theſe two Things, To be an <hi>Heretick,</hi> and to embrace an <hi>Hereſie,</hi> or an Opinion that is erroneous.</p>
+            <p>For, not every one whoſe Opinion is hereticall, is to be reckon'd and liſted in the black role of <hi>Hereticks,</hi> but onely he, who, having been baptiz'd into the <hi>Chriſtian Faith,</hi> ſhall ſtifly maintaine, and obſtinatly defend an untruth againſt it. By the <hi>Chriſtian Faith,</hi> wee are not to underſtand in generall the Word of <hi>God</hi> in it's whole Latitude, <hi>viz.</hi> The Propheticall and Apoſtolicall Doctrine contained in the Bookes of the old and new Teſtament; For, not every falſe Interpretation of any one place in Scripture, nor every Opinion, reſulting from that place ſo interpreted, falls under the name, and notion of <hi>Hereſie</hi> (as S. <hi>Hierome</hi> ſeemes to aſſert in his comment upon the <hi>Galatians</hi>)<note place="margin">C. 5. v. 20.</note> but by the Chriſtian Faith, <note place="margin">The foure Prin<g ref="char:EOLhyphen"/>ciples of our Faith and Re<g ref="char:EOLhyphen"/>ligion.</note> wee meane thoſe foure Principles of our Faith, which are the foure kindes of
+<pb n="16" facs="tcp:118153:13"/>
+Fundamentalls, the deniall and oppoſing any one whereof with pertinacy entitles a man to the guilt of <hi>Hereſie,</hi> and the name of <hi>Heretick.</hi>
+            </p>
+            <p>The <hi>firſt</hi> of thoſe Fundamentalls is placed in the Apoſtles Creed.</p>
+            <p>The <hi>ſecond,</hi> in the Decalogue or ten Commandements.</p>
+            <p>The <hi>third,</hi> in the Lords Prayer.</p>
+            <p>The <hi>fourth,</hi> in the two Sacraments, Baptiſme and the Lords Supper.</p>
+            <p>Thus the Reverend and Learned Biſhop <hi>Davenant</hi> determines the caſe, in that moſt judicious, and Schiſme-confounding worke of his, entituled, <hi>ad Pacem adhortatio.</hi> 
+               <q rend="inline">"So then, hee that ſhall perverſly deny an Article of the Creed, which is, <hi>Chriſtianorum fidei &amp; ſpei formula Veritatis ſumma ac funda<g ref="char:EOLhyphen"/>mentum,</hi> (To uſe the termes of the <hi>Tridentine Catechiſme</hi>) The forme of a <hi>Chriſtian's</hi> Faith and Hope;</q> The Epitome and Foundation of Truth; Hee that ſhall likewiſe wilfully erre <hi>in principiis moralibus,</hi> in the Principles of manners or good living; Hee that ſhall believe or maintaine the contrary to any precept or morall command, as, that ſimple Fornication is no ſinne, which is the Opinion of the <note n="*" place="margin">Vid. <hi>Kinchi</hi> in Pſal.</note> 
+               <hi>Iewes</hi> and <hi>Papiſts,</hi> That it is lawfull to worſhip an Image, the worke of mens hands, or the like; Hee that ſhall overthrow the Doctrine of the <hi>Sacraments,</hi> either denying the exerciſe or uſe of the <hi>Sacrament</hi> of <hi>Baptiſme,</hi> or not Baptizing according to the tenour of Chriſts <note place="margin">Mat. 28. v. ult.</note> injunction, <hi>In the Name of the Father, Sonne, and Holy Ghoſt,</hi> or not cele<g ref="char:EOLhyphen"/>brating the <hi>Euchariſt</hi> according to our <hi>Saviours</hi> inſtitution, by denying the Cup to the People, or the like; Laſtly, He or They that erre in the <hi>Fundamentall</hi> Doctrine concerning <hi>Prayer,</hi> making their addreſſes to any one, but to <hi>God</hi> alone, through the mediation of <hi>Chriſt</hi> his Sonne, by Faith in whom, and being knit to them in love, wee are bold to call <hi>God Our Father, &amp;c.</hi> Hee that ſhall obſtinatly perſiſt both in Opinion and practice againſt any Precept, or Doctrine in theſe foure kindes of <hi>Fun<g ref="char:EOLhyphen"/>damentalls,</hi> hee cannot be exempted from the number of <hi>Here<g ref="char:EOLhyphen"/>ticks,</hi> whoſe names are not regiſtred in the Booke of Life, into which none ſhall enter that <hi>worke abomination, or make a lie,</hi> Rev. 21.27. Such workers of miſchiefe are thoſe <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<pb n="17" facs="tcp:118153:13"/>
+as <note n="†" place="margin">
+                  <hi>Cyril. l.</hi> 1. <hi>in Ioh. cap.</hi> 4.</note> 
+               <hi>Cyrill</hi> rightly tells them, men that are <hi>Leaders</hi> and <hi>Abettours</hi> of an <hi>Haereſie.</hi> Such men, whom we may call <hi>Dae<g ref="char:EOLhyphen"/>monice Meridiana</hi> (as S. <note n="*" place="margin">
+                  <hi>Hieron. Apol. adverſus Ruffin.</hi> lib. 2.</note> 
+               <hi>Hierome</hi> once called <hi>Arius</hi>) men blown up with pride, and infected with a Diabolicall daring Spirit, you muſt decline, as you would thoſe that have the Le<g ref="char:EOLhyphen"/>proſie or Plague. <hi>Haereſie</hi> is a catching diſeaſe, and hardly to be cured; it enters into the Soule by the Eye and Eare (when you either reade the books, or heare the Sermons of <hi>Haereticks</hi>) and entring thus in, it brings Death and Deſtruction, as its at<g ref="char:EOLhyphen"/>tendants with it. S. <hi>Paul</hi> was not ignorant of this, as appeares by his wholſome and ſeaſonable exhortation for theſe times. <hi>Rom.</hi> 16. <note place="margin">Ver. 17.</note>
+               <hi>I beſeech you, brethren,</hi> (obſerve the Apoſtles earneſt ſupplication, grounded upon the danger of <hi>Hereticall</hi> infection) <hi>mark them which cauſe diviſions and offences, contrary to the Doctrine which ye have learned, and avoid them.</hi> 
+               <note n="†" place="margin">Ver. 18.</note>
+               <hi>For they that are ſuch, ſerve not the Lord Jeſus Chriſt, but their owne bellies.</hi> They are commonly Covetous and Luxurious perſons, given over to their Appetites. They are diſſembling Hypocrites, for, as it followes there, <hi>with faire Speeches and flatteries they deceive the hearts of their ſimple</hi> followers and Auditours. <note place="margin">2 Joh. 10.</note>
+               <hi>If there come any ſuch unto you and bring not the Doctrine of Chriſt</hi> (but that which is contrary to it) <hi>receive him not into your Houſe,</hi> neither bid him God ſpeed (<hi>i. e.</hi> have nothing to doe with him, neither ſhew him any ſigne of familiarity or reſpect: leſt under the guiſe or fleece of a Lamb-like Teacher, you meet (in the con<g ref="char:EOLhyphen"/>cluſion) with devouring <hi>Wolfes,</hi> proud <hi>Anabaptiſts,</hi> or Soul<g ref="char:EOLhyphen"/>murdering <hi>Jeſuites;</hi> Who now, like their great Maſter, the Prince of darkneſſe, <hi>goe about, ſeeking whom they may</hi> deſtroy with their Antiſcripture, Antichriſtian, infectious Tenets or <hi>Haereſies.</hi> None, more then theſe grand <hi>Impoſtours,</hi> are plead<g ref="char:EOLhyphen"/>ers for <hi>Conventicles,</hi> that ſo they may with more ſecurity open the fardall of their <hi>Maſſe</hi> (that <note n="*" place="margin">So called in the Confutati<g ref="char:EOLhyphen"/>on of the Pa<g ref="char:EOLhyphen"/>piſts Cate<g ref="char:EOLhyphen"/>chiſme, <hi>pag.</hi> 29.</note> maze of Idolatry) amongſt themſelves, and draw poor deceived Souls from the love of the <hi>Church,</hi> and their <hi>Miniſters.</hi> 
+               <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, marke with diligence thoſe that preach this Doctrine, and conclude with your ſelves, that they are either immediately ſent from <hi>Rome</hi> that Anti<g ref="char:EOLhyphen"/>chriſtian Synagogue, or ſeduced by the <hi>Romiſh Agents,</hi> whoſe onely aime in theſe times is, to blow the Cole of Diviſion
+<pb n="18" facs="tcp:118153:14"/>
+(uſing the <note n="†" place="margin">Doctor <hi>Cra<g ref="char:EOLhyphen"/>kanth.</hi> in his defence of our Church, does call them fit<g ref="char:EOLhyphen"/>ly, <hi>Flabella Jeſuitarum.</hi>
+               </note> 
+               <hi>Separatiſts</hi> as his bellowes for this very purpoſe) and to draw mens mindes from the love of the <hi>Truth</hi> and <hi>Learning,</hi> knowing full well, that the fabrick of their Super<g ref="char:EOLhyphen"/>ſtition and Idolatrous worſhip relyes onely upon the rotten pillar of Ignorance, the onely prop too of the <hi>Pope's</hi> great<g ref="char:EOLhyphen"/>neſſe.</p>
+            <p>For (as that examinatour of the <hi>Councell,</hi> or rather <hi>Conven<g ref="char:EOLhyphen"/>ticle,</hi> of <hi>Trent,</hi> ſaies well)<note place="margin">
+                  <hi>Gentillet.</hi>
+               </note> 
+               <hi>ut bonarum literarum inſtauratione fa<g ref="char:EOLhyphen"/>ceſſere caepit ignorantia,</hi> &amp;c. So ſoone as the cloud of <hi>Ignorance</hi> was diſpelled by the bright beames of <hi>Learning,</hi> the Authority of the <hi>Pope</hi> began preſently to faile and ſuffer a great diminu<g ref="char:EOLhyphen"/>tion. Therefore I exhort you againe, <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to marke thoſe who are ſometimes of <hi>Diviſion,</hi> who endeavour to disjoyne your hearts from the love of thoſe, whom <hi>God</hi> hath placed over you to be your <hi>Guardians</hi> and <hi>watchmen,</hi>
+               <note place="margin">Ezek. 53.17,18,19.</note> ſuch among the Reverend <hi>Fathers</hi> of the <hi>Church</hi> are now (<hi>God</hi> be bleſſed for it) yet living, to the terrour and griefe of our Adverſaries, ſuch likewiſe yet breath (though with much diſcouragements) a<g ref="char:EOLhyphen"/>mongſt the inferiour <hi>Miniſters,</hi> who are more famous for the <hi>Pulpit</hi> and <hi>Schooles</hi> then for the <hi>Preſſe,</hi> and are able to weild the <hi>Sword</hi> of Argumentation to the confutation and con<g ref="char:EOLhyphen"/>founding of <hi>Rome</hi>'s factours; who deale by us as the <hi>Haere<g ref="char:EOLhyphen"/>ticks</hi> of the former age by thoſe <hi>propugnatores fidei,</hi> defenders of the faith, <hi>Baſil, Nazianzen, Ambroſe, Auguſtine, Hierome,</hi> &amp;c. whom (as <note n="*" place="margin">
+                  <hi>Praefat. in Pa<g ref="char:EOLhyphen"/>nopliam.</hi>
+               </note> 
+               <hi>Lindanus</hi> notes) the other impudently called <hi>Hae<g ref="char:EOLhyphen"/>reticks, Haeretici haereticos appellabant,</hi> ſo they undeſervedly and moſt uncharitably terme us. To whom I ſhall onely reply to the words of S. <hi>Auguſtine</hi> to the <hi>Pelagians,</hi> 
+               <note place="margin">
+                  <hi>Aug. contr. Pelag.</hi>
+               </note>
+               <hi>Impetremus, ſi poſſu<g ref="char:EOLhyphen"/>mus, à fratribus noſtris, ne nos inſuper appellent Haereticos, quod eos talia disputantes nos appellare poſſumus fortaſſe, ſi vellemus,</hi> &amp;c. i. e. <hi>We wiſh that we might obtaine this favour of our Brethren, that they would not call us Haereticks, which we might (if we were ſo pleaſed to breake the rule of Charity which loveth peace) rightly call them,</hi> &amp;c.<note place="margin">1 Cor. 13.7.</note> As might be evidenced and proved by the former definition of <hi>Haereſie,</hi> and deſcription of an <hi>Haeretick.</hi> To all which I ſhall ſubjoyne this, to ſtrengthen my aſſertion, That as an errour <hi>in fundamento</hi> in any one of the forenamed <hi>fundamen<g ref="char:EOLhyphen"/>talls,</hi> ſo, one that is <hi>circa fundamentum,</hi> about, or bordering
+<pb n="19" facs="tcp:118153:14"/>
+upon the <hi>foundation</hi> joyned with <hi>Conviction</hi> (after the teſtimony of the whole <hi>Church</hi> in word or writing to the contrary) and that <hi>conviction</hi> back'd by <hi>contumacie,</hi> theſe doe conſtitute an Heretick.</p>
+            <p>He that comes boldly in a mans face, and cuts his throat, and he that ſteales behinde his back, and knocks him on the head, are both equally guilty of murther (and would be found ſo were they to be tryed.) So he that directly and manifeſtly deſtroyes a <hi>fundamentall Truth,</hi> and he that <hi>obliquely</hi> does it, teaching or obſtinately maintaining thoſe things, which, if they be granted, by a neceſſary conſequence overthrow the Do<g ref="char:EOLhyphen"/>ctrines of <hi>Faith,</hi> both theſe <hi>Antiſcripturiſts</hi> are to be reckoned amongſt <hi>Hereticks,</hi> although the former are farre worſe then the latter.</p>
+            <p>Thus the Hereſie of the <note n="*" place="margin">
+                  <hi>De his vid. Epiphan. Aug. Philaſt. de haereſibus.</hi>
+               </note> 
+               <hi>Marcionites,</hi> and <hi>Manichees,</hi> who de<g ref="char:EOLhyphen"/>ſtroy the humane nature of <hi>Chriſt,</hi> by allowing him only a <hi>Phan<g ref="char:EOLhyphen"/>taſtick body,</hi> is ſomewhat worſe then that of the <hi>Popiſh Tranſub<g ref="char:EOLhyphen"/>ſtantiatours,</hi> who by conſequent do that which is directly inten<g ref="char:EOLhyphen"/>ded by others: <note place="margin">
+                  <hi>Cranmer. A<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>b. Haereſ.</hi>
+               </note> for that with the defence of this their abſurd opinion, the Articles of the <hi>Incarnation, Aſcenſion,</hi> and <hi>Seſſion</hi> of our Lord <hi>Chriſt</hi> at <hi>Gods</hi> right hand, all theſe will fall to the ground, as the <hi>Reverend</hi> and moſt learned <hi>Biſhops</hi> 
+               <note n="†" place="margin">
+                  <hi>Ep Mort. con<g ref="char:EOLhyphen"/>tra Miſſam. l.</hi> 8. <hi>c.</hi> 2. <hi>Hall</hi> in his Treat. called <hi>Rome irreconcil. White</hi> againſt <hi>Fiſher</hi> Q. 19. Dr. <hi>Crakanth. c.</hi> 48. <hi>num.</hi> 23.</note> 
+               <hi>Morton, Hall,</hi> and <hi>White,</hi> alſo the judicious <hi>Crakanthorp</hi> in his elaborat <hi>Defence</hi> of our Church againſt <hi>Spalatenſis</hi> prove at large.</p>
+            <p>You may hereby collect what great boldneſſe hath ſeiz'd upon the Tongues and Pennes of the proud <hi>Romanists,</hi> who dare throw that dirt upon us which covers their owne faces, whilſt they with as much audacitie as falſitie, ſtile us (what they are indeed themſelves judged by the learned to be) i.e. <hi>Hereticks.</hi> Thus the <hi>Arrians</hi> dealt by the <hi>Christians</hi> in the <hi>Pri<g ref="char:EOLhyphen"/>mitive</hi> times, as we finde in <hi>Salvian,</hi>
+               <note place="margin">
+                  <hi>Salv. l.</hi> 5. <hi>de Guber. Dei.</hi>
+               </note> who complaines thus of them, <hi>In tantum ſe Catholicos eſſe judicant, ut nos titulo haereticae pravitatis infament,</hi> which words would rightly fit our Tongues in reference to our <hi>Romiſh</hi> adverſaries, <note place="margin">Papiſts falſly call themſelves Catholikes.</note> who (ſpeaking and wri<g ref="char:EOLhyphen"/>ting a meere contradiction) call themſelves <hi>Catholikes,</hi> when as indeed they are not truly ſo: it is a terme proper onely to the <hi>
+                  <g ref="char:V">Ʋ</g>niverſall Church of Chriſt,</hi> diſperſed and ſcattered over the
+<pb n="20" facs="tcp:118153:15"/>
+face of the whole earth. They are a particular Church, and therefore whilſt they ſtile themſelves (indeed it is <hi>stilo novo) Catholikes,</hi> they ſpeake as much or in effect as if a man ſhould ſay, a <hi>particular <g ref="char:V">Ʋ</g>niverſall,</hi> or <hi>
+                  <g ref="char:V">Ʋ</g>niverſall particular,</hi> which is abſurd and againſt the rule of Logick. Therefore in that they appropriat to themſelves the name of <hi>Catholicks,</hi> they doe this as falſly as when they faſten upon us the name of <hi>Hereticks,</hi> which is a terme diſgracefull, and odious.</p>
+            <p>
+               <hi>Lord</hi> open their eyes that they may ſee the <hi>Truth,</hi> and en<g ref="char:EOLhyphen"/>flame all our hearts with a greater love of it, that knowing what we believe, and practiſing what we know, we may at the laſt be crowned amongſt thoſe, who with that invincible <note n="*" place="margin">
+                  <hi>Athanaſius cont. Mundum. Raimund cont. Athanaſium.</hi> vid. <hi>Ribadin. in vitâ ejus.</hi>
+               </note> 
+               <hi>Atha<g ref="char:EOLhyphen"/>naſius</hi> have <hi>contended earneſtly for the Truth,</hi> even to the loſſe of their lives and liberties. This is enjoyned by S. <hi>Jude ver.</hi> 3. and a cleere deſcription of ſuch heroick <hi>Spirit</hi> we finde <hi>Heb.</hi> 11.37. <hi>It. c.</hi> 10.34. <hi>which things were written for our inſtruction,</hi> that we <hi>being compaſſed about with ſo great a cloud of witneſſes</hi> ſhould <note place="margin">Heb. 12.1. verſe 4.</note> 
+               <hi>reſiſt even unto bloud,</hi> and ſtrive againſt <hi>Hereſie</hi> and <hi>Hereticks, men of corrupt mindes,</hi> and deſtitute of the <hi>Truth, from ſuch ſe<g ref="char:EOLhyphen"/>parate your ſelves,</hi> 1 <hi>Tim.</hi> 6.5. Converſe not with ſuch peſtilen<g ref="char:EOLhyphen"/>tious perſons. This too was the wiſe Councell of the bleſſed Martyr <hi>Ignatius,</hi> who (as we read in <note n="*" place="margin">
+                  <hi>Euſeb. l.</hi> 3. <hi>c.</hi> 30.</note> 
+               <hi>Euſebius</hi>) uſed to go from houſe to houſe: through all the Churches in the <hi>Dioceſſe,</hi> admoniſhing and entreating the <hi>Chriſtians</hi> to abſtaine from the Society of knowne <hi>Hereticks,</hi> who like <note place="margin">Eccl. 13.1.</note> pitch defile the weake with the leaſt touch of private conference.</p>
+            <epigraph>
+               <q>
+                  <note place="margin">Mat. 7.15.</note>
+                  <hi>Beware of falſe Prophets,</hi> &amp;c.</q>
+            </epigraph>
+         </div>
+         <div n="3" type="query">
+            <pb n="21" facs="tcp:118153:15"/>
+            <head>The third QUERE. <hi>Whether it be lawfull</hi> (<hi>or allowable by the</hi> word) <hi>for any to frequent</hi> Conventicles, <hi>forſaking the publike meetings of</hi> Chriſtians <hi>in</hi> Churches?</head>
+            <p>AS there is a peeviſh induſtrie in <hi>wickedneſſe,</hi> to finde or make <hi>Aſſociats,</hi> So <note n="*" place="margin">
+                  <hi>Si pertinacia inſuperabiles vires habere conatur, quantas debet habere conſtantia?</hi> &amp;c. Aug. Ep. 167. Feſto.</note> it is a commendable and induſtrious piece of <hi>vertue</hi> or <hi>goodneſs</hi> to oppoſe the attempts of <hi>wickedneſs,</hi> eſpecially thoſe of <hi>Sciſmaticks,</hi> who not contenting themſelves with the bounds of their owne impieties, never reſt till they have corrupted others with the poyſon of their ungodly <hi>Tenets.</hi> And I cannot but grieve to ſee the once brave ſpirits of our Na<g ref="char:EOLhyphen"/>tion (ſhewed in the ſubduing the <hi>Geneviſing Scots</hi>) ſuch in with greedineſſe the poſitions of the <hi>new Jeſuitiſing Englandians,</hi> who are infected with the venome of old moth eaten <hi>Hereſies,</hi> which have lain aſleep for a long while, but are now awakened and revived by <hi>the Prince</hi> of darkneſſe, and tranſported into our Church.</p>
+            <p>The ground (as I humbly conceive) of all the enormities and looſe opinions amongſt us, is, the diſcountenancing and diſ<g ref="char:EOLhyphen"/>couraging of the <hi>publike ministerie,</hi> and the crying downe of <hi>Churches (Vox Diabolum ſonat, non Deum certè)</hi> as if there were none other but thoſe that are <hi>Spirituall,</hi> when as we finde upon record both in the <note place="margin">1 Cor. 14.35.</note> 
+               <hi>word</hi> and in ancient <hi>writers,</hi> that there were <hi>materiall Churches,</hi> 
+               <note n="*" place="margin">1 Cor. 11.22.</note> 
+               <hi>houſes</hi> built and ſet apart for the publick worſhip of <hi>God,</hi> wherein the <hi>Christians</hi> ſolemnly met at the leaſt once a weeke; <note place="margin">
+                  <hi>Vid.</hi> a full and learned diſcourſe of this in Mr. <hi>Mede's Diatri<g ref="char:EOLhyphen"/>bae.</hi>
+               </note> This was the practiſe of the <hi>Primitive</hi> times, even in the dayes of the <hi>Apoſtles,</hi> and conti<g ref="char:EOLhyphen"/>nued from them to us through all ages by uninterrupted ſucceſ<g ref="char:EOLhyphen"/>ſions.</p>
+            <p>There is a <hi>fable</hi> amongſt the <hi>Mythologiſts,</hi> of a <hi>Maiden,</hi> and a <hi>Lyon,</hi> who fell in love with her, and ſhe promiſed out of feare to yeeld to his deſires, on condition that ſhe might firſt knock out his Teeth, which he preſently yeelded to, and was by her im<g ref="char:EOLhyphen"/>mediately deſtroyed.</p>
+            <p>
+               <pb n="22" facs="tcp:118153:16"/>
+Thus the only aime of the <hi>Devill,</hi> and his <hi>aſſociats</hi> is not onely to pluck out the <hi>Teeth</hi> of Diſcipline (the wall) but even the <hi>Tongue</hi> of ſound <hi>Doctrine,</hi> which is the <hi>Heart</hi> of the <hi>Church.</hi> This he now endeavours by ſtopping the mouths of <hi>Gods lawfull Miniſters,</hi> and ſending out his <note n="†" place="margin">Jer. 29.24. Jude 8.</note> 
+               <hi>Shemaiahs, Nehelamites,</hi> his <hi>dreaming Chaplaines,</hi> who dream of a form of Govern<g ref="char:EOLhyphen"/>ment never thought of nor intended by <hi>Chriſt,</hi> and, ha<g ref="char:EOLhyphen"/>ving no commiſſion to preach, thruſt themſelves into <hi>Conventicles,</hi> where they vent their dreams, and propagate their phancies, to the deſtruction of many poore well-meaning <hi>Chri<g ref="char:EOLhyphen"/>ſtians.</hi>
+            </p>
+            <p>Concerning the unlawfulneſſe of which <hi>private meetings</hi> (congregated by men who have no calling to teach, and in oppoſition to the <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>niformity</hi> of our <hi>Nationall Church</hi>) I ſhall now in all love and tenderneſſe to the Soules good of the unlearned, enlarge my thoughts, and deliver my opinion, which I truſt will be embraced by thoſe who ſhall peruſe this ſhort <hi>Treatiſe</hi> without a partiall prejudice; which, like a <hi>Curtaine</hi> drawn before a window, ſhuts out the light of <hi>Truth,</hi> and keeps darkneſs in, it harbours errours and miſtakes which breed hatred and diſſention.</p>
+            <p>
+               <note place="margin">The deſcripti<g ref="char:EOLhyphen"/>on of a <hi>Conven<g ref="char:EOLhyphen"/>ticle</hi> properly ſo called.</note>Firſt, take a <hi>Conventicle</hi> for a meeting of men and women in a private houſe upon the <hi>Lords</hi> day, then when they ſhould joyn with the people of God in a Church appointed for Gods pub<g ref="char:EOLhyphen"/>lique worſhip and ſervice; thus to convene or meet (though in times of reſtraint) without a lawfull Miniſter to head that body, and by enjoyn'd <hi>Prayers</hi> and <hi>Preaching</hi> to ſanctifie the work, is held utterly unlawfull: which I ſhall prove both by the word of <hi>God,</hi> the practice of <hi>Chriſt,</hi> together with the authority of <hi>Fa<g ref="char:EOLhyphen"/>thers,</hi> and <hi>interpreters</hi> of the <hi>Holy Scriptures,</hi> as alſo by Argu<g ref="char:EOLhyphen"/>ments drawn from reaſon, which commonly (if not perverted) is a ſure guide and a good judge.</p>
+            <p>Firſt then, if we weigh the <hi>Truth</hi> in the ballance of the <hi>Sanctu<g ref="char:EOLhyphen"/>ary,</hi> if we looke into the Scriptures we ſhall finde a flat prohi<g ref="char:EOLhyphen"/>bition to the contrary, as <hi>Heb.</hi> 10.24,25. <hi>Let us conſider one another to provoke to love and good workes,</hi> not forſaking <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>congregation, as the manner of ſome is, but let us exhort one another,</hi> &amp;c. upon which place <hi>Eſtius</hi> (a moderate
+<pb n="23" facs="tcp:118153:16"/>
+and learned Interpreter) hath this gloſſe, <hi>Qui conventibus Ec<g ref="char:EOLhyphen"/>cleſiaſticis,</hi> &amp;c.<note place="margin">
+                  <hi>Qui conventibus Eccleſiaſticis per faſtum &amp; ſuperbiam ſeſe ſubtrahunt, pro<g ref="char:EOLhyphen"/>ximi ſunt gra<g ref="char:EOLhyphen"/>viori ruirae.</hi> Eſt. in loc.</note> They that withdraw themſelves from the pub<g ref="char:EOLhyphen"/>lick <hi>Congregation</hi> are in danger of an unavoidable and fearfull ruine; for that thereby they make a <hi>Schiſme</hi> in the <hi>Church</hi> (the doing whereof is moſt dangerous and diſpleaſing to <hi>God</hi>) and ingender <hi>Sects</hi> (ſo <hi>Eſtius</hi> on the Text) whereby they doe worſe by Chriſt then the perſecuting <hi>Jewes,</hi> they devide his ſeameleſſe Coate, and give an occaſion to the <hi>Adverſarie</hi> of re<g ref="char:EOLhyphen"/>joycing and triumphing over the <hi>Church.</hi>
+            </p>
+            <p>Therefore <hi>Ignatius</hi> in his Epiſtles<note place="margin">
+                  <hi>Ignat. in Ep ad Epheſ. &amp; Smyr<g ref="char:EOLhyphen"/>nenſes.</hi>
+               </note> exhorts (and that with much earneſtneſſe) the <hi>Chriſtians</hi> to frequent the <hi>Church,</hi> to be often preſent and ſeldome abſent from the Meetings of <hi>Gods</hi> people there, leſt that by their continued abſence they fall at length from <hi>the faith,</hi> having firſt loſt their <hi>Love</hi> to God and his <hi>Saints:</hi> which <hi>Love</hi> is commonly child by the cold breath of <hi>Conventicles,</hi> where hatred, and malice (againſt thoſe of a con<g ref="char:EOLhyphen"/>trary judgement) with Sedition is commonly hatched and fo<g ref="char:EOLhyphen"/>mented, as hath beene found by ſad experience in this ſinfull Nation.</p>
+            <p>I might here accumulate the <hi>Testimonies</hi> of other <hi>Interpre<g ref="char:EOLhyphen"/>ters</hi> upon this place, to confirme this <hi>Truth</hi> concerning the unlawfulneſſe of <hi>Conventicles.</hi>
+            </p>
+            <p>
+               <hi>Cornelius à Lapide</hi> writes thus upon this Text, much to our preſent purpoſe. The Apoſtle (ſaies he) by this word <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>intelligit caetus eccleſiae &amp; conventus fidelium ad ſacram ſynaxim, &amp; ad verbum Dei preceſque publicas,</hi> &amp;c. i. e. <hi>He un<g ref="char:EOLhyphen"/>derstands the meeting of the Church in publique prayer, in receiving of the Holy Sacrament, and to heare the word.</hi> Hos ergo con<g ref="char:EOLhyphen"/>ventus Apoſtolus vult frequentari, &amp;c. <hi>Therefore the Apoſtle would have theſe publick meetings frequented, that ſo men and wo<g ref="char:EOLhyphen"/>men may make a cleer and open profeſſion of their Faith, which is a great meanes to beget mutuall</hi> 
+               <note place="margin">
+                  <hi>Illi publici cat<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> &amp; mutui con<g ref="char:EOLhyphen"/>greſſus mire fo<g ref="char:EOLhyphen"/>vent fidem &amp; charitatem, quae in ſeceſſu &amp; ſe<g ref="char:EOLhyphen"/>peratione diutur<g ref="char:EOLhyphen"/>niori langueſſit,</hi> &amp;c. Cornel. a lap.</note> 
+               <hi>love and affections in thoſe, who a<g ref="char:EOLhyphen"/>gree in the ſame faith with us.</hi> By this open profeſſion we like<g ref="char:EOLhyphen"/>wiſe encourage and incite others to profeſſe the ſame <hi>Faith,</hi> to worſhip the ſame <hi>God</hi> in that manner and after that way as it is done by us, who hereby ſhew our ſelves to be an example of good works. And examples we know are more prevalent then words or precepts. They have a greater influence upon mens
+<pb n="23" facs="tcp:118153:17"/>
+practiſe in a way of conformity and obedience.</p>
+            <p>Beſides the forenamed <hi>Ignatius</hi> amongſt the Fathers, <hi>Chryſostome, Theodoret, Theophylact,</hi> and <hi>Oecumenius,</hi> interpret this Text in the ſame ſence with <hi>à Lapide</hi> and <hi>Eſtius;</hi> who in<g ref="char:EOLhyphen"/>deed light their candle at thoſe bright burning <hi>Tapers,</hi> whom <hi>God</hi> did ſet up for the good of his <hi>Church,</hi> to enlighten it, and to direct it in the wayes of Truth. And <note n="*" place="margin">Luke 10.16.</note> he <hi>that despiſeth</hi> them (with the reſt of the ancient Fathers) <hi>deſpiſeth God</hi> who ſent them.</p>
+            <p>The ſecond <hi>Scripture</hi> proofe againſt private meetings (as be<g ref="char:EOLhyphen"/>fore were defined) is this. <hi>Mat.</hi> 24. <note place="margin">Mat. 24.26.</note>
+               <hi>Wherefore if they ſhall ſay unto you, behold he is in the deſart, go not forth, behold he is in the ſecret places,</hi> 
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Beleeve it not.</hi> Moſt of the ancient <hi>Fathers</hi> (therefore now deſpiſed, becauſe they are enemies to <hi>Haereſies</hi>) as <hi>Origen, Auguſtine,</hi> and others interpret this place of the private corners of <hi>Schiſmaticks</hi> and <hi>Haereticks,</hi> who labour to draw the people's mindes from the love of the <hi>publick Con<g ref="char:EOLhyphen"/>gregation,</hi> and engage them to their private meetings, whereby they commonly intangle them in their errours and <hi>Haereſies.</hi> Therefore if they ſay (as the <note place="margin">
+                  <hi>Vid. August. Ep.</hi> 48.</note> 
+               <hi>Donatiſts</hi> once did) that Chriſt is onely amongſt them in their <hi>Crypts</hi> and <hi>Conventicles, beleeve them not,</hi> for they doe contrary to the precept and practiſe of Chriſt, He wills or enjoynes us to <note n="†" place="margin">Luk. 12.8.</note> 
+               <hi>confeſſe Him</hi> and his Truth <hi>before men,</hi> i. e. to make an open profeſſion of our Faith, both in times of perſecution and peace. He himſelfe <hi>ever</hi> 
+               <note n="*" place="margin">Joh. 18.19,20.</note> 
+               <hi>taught publikely</hi> (as he witneſſed of himſelfe before <hi>Pilat</hi>) He <note n="†" place="margin">Luk. 4.15.44</note> did ſo to teach us this leſſon, That Truth ſeeks not corners, but loves the light (therefore it is ſometimes called light in the Holy Scriptures. <hi>Eph.</hi> 5.8. <hi>Walke as Children of the Light.</hi> Vid. <hi>Act.</hi> 26.18.) But they that <note n="*" place="margin">Joh. 3.19. Men love darkneſſe ra<g ref="char:EOLhyphen"/>ther then light, becauſe their deeds are evill.</note> 
+               <hi>hate the Truth,</hi> delight in darkneſſe, dare not ſay that in an open <hi>Congregation,</hi> what they ſpawn and vent in a Conventicle or private meeting. Therefore <hi>avoyd them,</hi> joyne not with them, beware of making a <hi>Schiſme</hi> in the <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hurch,</hi> or making that rent wider which was firſt begun of late by the <hi>Presbyterians;</hi> Adhere not to <hi>Schiſmaticks,</hi> whoſe portion (without a deep repentance for ſo great a ſinne as wounding <hi>Christs Church</hi>) ſhall be after death in the Land of darkneſſe, becauſe they loved darkneſſe rather then light. I never
+<pb n="25" facs="tcp:118153:17"/>
+read that ſaying of <hi>Auguſt.</hi>
+               <note place="margin">
+                  <hi>Aug. Ep.</hi> 204.</note> but with horrour and dread, when I conſidered the common guilt. <hi>Foris ab Eccleſiâ constitutus &amp; ſeparatus à communione unitatis, &amp; vinculo charitatis, aeterno ſupplicio punireris, etiamſi pro Chriſti nomine vivus comburereris.</hi> i. e. <hi>He</hi> (or <hi>She) that out of pride or peeviſhneſſe ſeparates him<g ref="char:EOLhyphen"/>ſelfe from the bodie of the Church</hi> (whoſe members are knit to<g ref="char:EOLhyphen"/>gether by the ligaments of one faith and bond of love) <hi>that man ſhall be puniſhed with everlaſting torments, although he ſhould die, in the flame and be burnt for the name of Chriſt.</hi> (Such biting Truths as theſe are the cauſe why <hi>Schiſmaticks</hi> and <hi>Hereticks</hi> love not to read the <hi>Fathers,</hi> nor vouchſafe ſo much as to name them in their Sermons or writings.) <hi>Therefore let no man deceive you with vaine words, for, for ſuch things cometh the wrath of God upon the children of Diſobedience. Be not then companions with them: for ye were ſometimes darkeneſſe,</hi> but are now <hi>light in the Lord, walk as Children of Light. Eph.</hi> 5.6,7,8. And conforme your ſelves to the <note n="*" place="margin">
+                  <hi>Chriſti actio noſtri debet eſſe inſtrinctio. Aug.</hi>
+               </note> example of our <hi>Lord</hi> and <hi>Maſter Jeſus,</hi> who <note n="†" place="margin">Luke 19.47.</note> preached in the <hi>Synagogues</hi> and the <hi>Temple,</hi> not<g ref="char:EOLhyphen"/>withſtanding they were places full of diſorder and corruption. He <note n="*" place="margin">Mat. 21.13.</note> called the <hi>Temple</hi> a <hi>Denne of theeves</hi> (and are there not too many in ours?) <note n="†" place="margin">Mat. 15.3.</note> The Doctrine of the <hi>Law</hi> was then cor<g ref="char:EOLhyphen"/>rupted by the <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the falſe gloſſes of the <hi>Scribes</hi> and <hi>Phariſees</hi> (&amp; is not the Doctrine of the <hi>Gospel</hi> as much corrupted by ours?) Beſides all this they were looſe and wicked in their lives, witneſſe that charge of our <hi>Saviour,</hi> to his followers and Auditours, againſt the Jewiſh Doctours, <note place="margin">Mat. 23.23.</note>
+               <hi>Doe not after their workes,</hi> &amp;c. Notwithſtanding all theſe corruptions and defor<g ref="char:EOLhyphen"/>mities in the <hi>Jewiſh Church,</hi> yet our <hi>Saviour Chriſt</hi> made no ſeparation from it, but came and preached in thoſe places of publick concourſe, where the Seducers and falſe Teachers were.</p>
+            <p>If this example and practiſe of our Saviour will not convince and ſtartle into feare and obedience the <hi>Separatiſts</hi> of our age (both Teachers and Diſciples) I know not what will doe it. <note place="margin">
+                  <hi>Area Dominica nondum ventila<g ref="char:EOLhyphen"/>ta eſt, ſine pa<g ref="char:EOLhyphen"/>leis eſſe non po<g ref="char:EOLhyphen"/>teſt. Nos eremus atque agamus quantum poſſu<g ref="char:EOLhyphen"/>mus ut palea ſi<g ref="char:EOLhyphen"/>mus.</hi> Aug. Ep. 203.</note> If <hi>Chriſt</hi> ſhould have trodd in their ſteps, been led by their fond opinion, he would have made a <hi>Separation,</hi> and fled from the <hi>Society</hi> of the <hi>Jewes,</hi> and not ſo much as once gone into the <hi>Temple</hi> or taught in their <hi>Synagogues,</hi> but he did other<g ref="char:EOLhyphen"/>wiſe; and from what he did we may conclude, that the pra<g ref="char:EOLhyphen"/>ctiſe
+<pb n="26" facs="tcp:118153:18"/>
+of thoſe <hi>Phanaticks</hi> who ſeparate themſelves from all Aſſemblies, or publick places of Gods ſervice, pretending either a want of gifts or a defect of holineſſe in the <hi>Miniſters,</hi> I ſay the practiſe of ſuch men doth ſpeake them to be thoſe <hi>Anti<g ref="char:EOLhyphen"/>chriſts,</hi> which the Apoſtle S. <hi>John</hi> mentions in his firſt Epiſtle, <note place="margin">1 <hi>Ep. Ioh. c</hi> 2. <hi>v.</hi> 18, 19.</note>
+               <hi>Now there are many Antichriſts, whereby we may know it is the last time: They went out from us,</hi> &amp;c. i. e. They turn'd <hi>Separatiſts,</hi> &amp; therefore <hi>Antichriſts,</hi> becauſe they went flat againſt the <hi>practice</hi> and <hi>precept</hi> of Chriſt, who commands us by his <hi>Apoſtle,</hi> 
+               <note place="margin">Phil. 1.27.2.2.</note>
+               <hi>to be of one heart and of one minde, to thinke and ſpeake, and doe the ſame thing,</hi> (in good) <hi>to love as Brethren,</hi> who forſake not one ano<g ref="char:EOLhyphen"/>thers company, and deſert not their family, when they diſco<g ref="char:EOLhyphen"/>cover any infirmity in their <hi>Father</hi> or any deformity in their <hi>Mother,</hi> but keep cloſe to both in obſervance and humble duty. We may have communion or fellowſhip with mens perſons in publick worſhip, and not partake in the guilt of their Sinnes. <hi>Ille communicat malis qui conſentit factis malorum.</hi>
+               <note place="margin">
+                  <hi>Aug. Ep.</hi> 171.</note> He commu<g ref="char:EOLhyphen"/>nicates with the wicked that conſents to their wickedneſſe; abhorre and forſake his ſinne, then maiſt thou without feare or danger communicate with a wicked, man. <hi>Si malos odistis, vos ipſi mutamini à Scelere Schiſmatis. Si malorum permixtionem timeretis Optatum inter vos in apertiſſimâ iniquitate viventem per tot annos non teneretis.</hi> Thus <hi>Auguſtine</hi> beſpeakes the <hi>Dona<g ref="char:EOLhyphen"/>tiſts;</hi> So may I the men of our times; If you hate the ungodly, ſhew your hatred towards your ſelves by repenting and tur<g ref="char:EOLhyphen"/>ning from your <hi>Schiſme</hi> and <hi>Hereſies;</hi> And if you feare the mixture or company of the wicked, ſhun the Society, and abhorre the perſons of your Leaders by whom you are ſedu<g ref="char:EOLhyphen"/>ced and corrupted.</p>
+            <p>
+               <note place="margin">To conventicle on the Lords day a breach of the fourth Commande<g ref="char:EOLhyphen"/>ment.</note>A third Argument againſt ſuch meetings in private on the Lords day may be deduced from the intent and ſcope of the fourth commandement, whoſe <hi>morality,</hi> in the judgement of all both Fathers and moderne writers, conſiſts in this, that <hi>God</hi> be worſhipped in the Congregation with publicke ſervice in an open confeſſion of our Faith and a profeſſion of our love and thankfulneſſe to him for all his mercies and bleſſings, thoſe which concerne our Soules and thoſe which reſpect our bodies, &amp;c. But to wave this and other Arguments which might be
+<pb n="27" facs="tcp:118153:18"/>
+produced to confirme my former <hi>Theſis,</hi> I proceed to reaſons againſt Conventicles.</p>
+            <p>Firſt, Reaſon ſuggeſts this Truth to our Spirits, that our <hi>Soules</hi> (being, as it were, ſo many <hi>ſparkes</hi> of the <hi>Deity,</hi> the <note n="*" place="margin">Gen. 2.7.</note> 
+               <hi>breath of God</hi>) are more <note n="†" place="margin">Mar. 8.37. Mat. 16.26.</note> pretious then our <hi>bodies,</hi> which are clodds of earth, and by nature cages of uncleanneſſe; by ſo much greater ought our care to be towards thoſe then theſe mortall bodies. Now no man, that hath a Treaſure, of Jewels or gold, about him, will venture alone into a place which is a recep<g ref="char:EOLhyphen"/>tacle of <hi>Theeves</hi> and <hi>Robbers:</hi> None that is found in health will thruſt himſelfe boldly without feare or wit into the company of thoſe who are infected with the plague or ſome other noy<g ref="char:EOLhyphen"/>ſome diſeaſe: Oh then how doe they at once betray their <hi>Re<g ref="char:EOLhyphen"/>ligion</hi> and forfeit their <hi>reaſon,</hi> who mingle themſelves with <hi>Hereticks,</hi> and reſort frequently to the company of <hi>Schiſma<g ref="char:EOLhyphen"/>ticks,</hi> who are Theeves and Robbers,<note place="margin">John 10.8.</note> for that they ſteale the Truth out of mens hearts, and rob their high-born <hi>Soules</hi> of the love of God and goodneſs: whoſe opinions likewiſe are worſe then the <hi>plague</hi> in the event and conſequent; for, as they incurably infect the ſoul, So, being embraced and followed, they debarre men from ever coming to the Kingdome of God. <hi>Vid. Gal.</hi> 5.19. witneſſe likewiſe that of <note n="*" place="margin">
+                  <hi>Ignat. Epiſt. ad Philad.</hi>
+               </note> 
+               <hi>Ignatius,</hi> which (did our Sapara<g ref="char:EOLhyphen"/>tiſts underſtand his language) they would read with a trembling in their joynts, like that great prince in <hi>Daniel c.</hi> 5. <hi>v.</hi> 6. when he read his doome on the wall. The words of <hi>Ignatius</hi> in En<g ref="char:EOLhyphen"/>gliſh are theſe; <note n="*" place="margin">
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c. <hi>Ignat. ibid.</hi>
+               </note>
+               <hi>They that joyne themſelves in a faction, and adhere in affection to ſuch who ſeparate and divide their hearts from the Truth, ſuch men ſhall not inherit the Kingdome of God. They who ſhun not the company of falſe Teachers, ſhall be condem<g ref="char:EOLhyphen"/>ned to everlasting torments.</hi> For as with <hi>David</hi> we muſt <hi>hate the congregation of the wicked,</hi> or evill doers, ſuch are perverſe <hi>Schiſmaticks,</hi> So muſt we delight in the company of the <hi>Saints,</hi> who are ſuch not onely in name but alſo in practiſe: being pure in their opinions, holy in their lives, <hi>not carnall, nor ſenſuall;</hi>
+               <note place="margin">Pſal. 26.4.</note> 
+               <hi>They despiſe not Government, neither ſpeake evill of thoſe who are ſet in authority</hi> over them by God,<note place="margin">Jude ver. 8.</note> but are Spirituall, Heavenly minded, meeke and obedient; theſe are the <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Thoſe that excell in vertue,</hi> commended by
+<pb n="28" facs="tcp:118153:19"/>
+               <hi>H.</hi> 
+               <note n="*" place="margin">Pſal. 16.3.</note> 
+               <hi>David</hi> for our choice reſpect, and companie.</p>
+            <p>Againe, in the ſecond place, as reaſon fetches an argument againſt them from the danger of ſuch meetings, where the Devill may ſeize upon thee, (as hee did once upon that wo<g ref="char:EOLhyphen"/>man in the Theater, as <hi>Tertullian</hi> recordes)<note place="margin">
+                  <hi>Tertul. cap.</hi> 26. <hi>li. de ſpectaculis;</hi> There he calls Conventicles <hi>Diaboli Eccle<g ref="char:EOLhyphen"/>ſias,</hi> &amp;c.</note> ſo my reaſon tells mee (Thus ſhould every one argue with himſelfe) That it is a ſhame and diſgrace for a <hi>Chriſtian,</hi> a brother of <hi>Christ</hi> to follow ſuch a <hi>Teacher,</hi> to make him his <hi>Maſter,</hi> who is <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a ſervant to his owne belly, and a ſlave to his luſts; the ſubſerviencie to which hath ever beene the originall of <hi>Hereſies,</hi> as <hi>Theophylact</hi> notes well upon that place of the Apoſtle, <note place="margin">Rom. 16.18.</note>
+               <hi>They ſerve not the Lord Jeſus but their own bellies.</hi> This is ſpoken of <hi>Schiſmaticks,</hi> whoſe private meetings end commonly in belly-cheere, in luxurie and wan<g ref="char:EOLhyphen"/>tonneſſe: This is too well knowne to be true in theſe <hi>Truth-denying</hi> times: and this too was confeſſed of <note n="†" place="margin">It was on the 1. of <hi>April</hi> laſt 1652. on which day I baptized two of his children, in the open Congregation, one newly borne, the o<g ref="char:EOLhyphen"/>ther of the Age of two years and an halfe.</note> late to me by a <hi>Taylour</hi> here at <hi>Whethamſtead</hi> to be the cauſe of his revolt from ſuch private meetings, and coming againe to our <hi>Church,</hi> it was (as he ingeniouſly ſaid) their diſorder and un<g ref="char:EOLhyphen"/>ſeemly carriage in their <hi>Conventicles,</hi> that moved him (a man of a tender Spirit) to forſake their wicked company, and return to God.</p>
+            <p>Oh therefore be perſwaded in time before you meet with deſtruction to avoid ſuch <hi>Teachers,</hi> and their meetings in dark cells and corners: They are nurceries of ſinne and corruption. <hi>Though Iſrael play the Halot, let not Judah offend: Come ye not to Gilgal, neither goe up to Bethaven, Hoſ.</hi> 4.15. Give not up your names to be thoſe mens Diſciples, who for ought ye know may be the <hi>Popes Legats,</hi> who broach new opinions con<g ref="char:EOLhyphen"/>trary to thoſe you have received, and repugnant to the <hi>Scri<g ref="char:EOLhyphen"/>ptures;</hi> 
+               <note place="margin">
+                  <hi>Bern. Non paſtores ſed Impoſtores.</hi>
+               </note> ſuch men are not <hi>Doctores</hi> but <hi>Seductores,</hi> not <hi>Doctours</hi> but <hi>Seducers,</hi> not <hi>Paſtours</hi> but <hi>Impoſters:</hi> Therefore ſhun their company, come not into their privat aſſemblies, leſt ye be de<g ref="char:EOLhyphen"/>filed with their pollutions, corrupted by their <hi>Haereſies,</hi> which ever end in <hi>Schiſme;</hi> both which break the bones and bruiſe the fleſh of <hi>Christs Church,</hi> his <note n="*" place="margin">Cant. 4.9,10.</note> 
+               <hi>S<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ouſe.</hi> And he that lives and dyes in a <hi>Schiſme,</hi> cannot hope to be ſaved, being ſevered from that body whereof <hi>Christ Jeſus</hi> is the Head, which body is
+<pb n="29" facs="tcp:118153:19"/>
+quickned by that <hi>Spirit,</hi> whereby we ſhall be raiſed. <note place="margin">Rom. 8.11.</note>
+               <hi>If the Spirit of Him that raiſed up Jeſus from the dead dwell in you, He that raiſed up Chriſt from the dead, ſhall alſo quicken your mortall bodies, &amp;c.</hi> If then that <hi>Spirit</hi> dwell not in you, you ſhall not be glorified: As a member that is cut off from the body dyes, and by no art can be quickned or have life put into it, being ſevered from the Influentiall vertue or activity of that Soul which gives life to the body, whereto whilſt it was joyned it lived and moved. Ile conclude this third Quaere with that ex<g ref="char:EOLhyphen"/>hortation of the <hi>Apoſtle,</hi> 
+               <note place="margin">Eph. 4.3.</note>
+               <hi>Keep the <g ref="char:V">Ʋ</g>nitie of the Spirit in the bond of peace,</hi> that is, in Love and Charity. If this heavenly fire burnes and glows in your <hi>Chriſtian</hi> breaſt, you will not from that which I have delivered deduce this uncharitable and miſtaken Inference (as ſome once did, but are now better in<g ref="char:EOLhyphen"/>formed of my intentions) That I am an enemy to all kindes of meetings of Gods Saints and Servants; I am not, I exhort them often to meet, but <hi>when?</hi> Not when they ſhould be at <hi>Church;</hi> what to do? Not to take upon them the <hi>Miniſters</hi> office to preach, but to repeat what they have heard from the mouths of their orthodox <hi>Teachers,</hi> or to read the Scriptures to the unlearned, or laſtly, to doe as <hi>David</hi> did, i. e. <note place="margin">Pſal. 66.18.</note>
+               <hi>Tell what God hath done for their Souls,</hi> (the manner of their Converſion, the me<g ref="char:EOLhyphen"/>thod and meanes God uſed to comfort them in their tribula<g ref="char:EOLhyphen"/>tion, or to <hi>pray</hi> together <note place="margin">Pſal. 122.6.</note>
+               <hi>for the peace of Hieruſalem,</hi> for the re<g ref="char:EOLhyphen"/>ſtauration of the poore diſtreſſed Church, for a bleſſing upon the perſons and labours of their honeſt Miniſters, let this be the end of your houſe-meetings, and my Soul ſhall meet with you in commendation of your holy practiſe, and in prayer for a bleſſing on your pious exerciſe; but if you do otherwiſe, <hi>e. i.</hi> for<g ref="char:EOLhyphen"/>ſake the <hi>Church,</hi> the place where Gods people his ſervants do congregat, I fear that it wil happen to you as it doth to the ſilly <hi>Sheep,</hi> that ſtrayes from the flock, which becomes a prey to the devouring <hi>Wolfe;</hi> or as it did to <hi>Dinah</hi> the daughter of <hi>Leah,</hi>
+               <note place="margin">Gen. 34.2.</note> who leaving her Fathers houſe to ſee the daughters of the Land, was met with and raviſhed by <hi>Shechem.</hi> So, they that forſake their <hi>Ministers,</hi> and out of curioſity reſigne and de<g ref="char:EOLhyphen"/>vote themſelves to be followers of thoſe who are none, they muſt expect to be defloured of their <hi>faith</hi> and <hi>manners</hi> by ſuch
+<pb n="30" facs="tcp:118153:20"/>
+ſeducers, who are ſpirituall <hi>Adulterers</hi> and <hi>Murtherers,</hi> who corrupt mens Judgements, and feaſt it with the Souls of their ſimple Diſciples, whom they grinde with the <note n="*" place="margin">
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Cyril. in Hoſ.</hi>
+               </note> 
+               <hi>Teeth</hi> of <hi>errour,</hi> and poyſon with that cup which they themſelves have drunk of, a guilded cup of Haereſies, <hi>full of</hi> † <hi>abomination</hi> and filthineſſe. The <hi>Lord prevent</hi> us with his grace, and <hi>preſerve</hi> us from theſe Corruptions.</p>
+            <p>S. <hi>Auguſtine</hi> in his <hi>fourth</hi> booke <hi>de Doctrinâ Chriſtianâ</hi> 
+               <note n="*" place="margin">Rev. 17.4. c. 10.</note> notes that the word in Latin which ſignifies a Conventicle or place of privat meeting (it is <hi>conventiculum) tantùm ſingulari<g ref="char:EOLhyphen"/>tèr dicitur,</hi> is onely uſed in the ſingular number, improperly in the plurall; as if by <hi>God's Spirit</hi> (the prime Authour of words in the hearts and by the Tongues of men) this was thereby in<g ref="char:EOLhyphen"/>tended to be implyed, that there muſt not be more places then one, for Gods people to meet in, in their ſeverall pariſhes, that is each particular <hi>Church,</hi> the onely place allowed and appointed by <hi>God</hi> for his publick worſhip and ſervice. <note place="margin">Pſal. 107.31.32.</note>
+               <hi>Oh that men would therefore praiſe the Lord for his goodneſſe, and declare his wonderfull workes before the Sonnes of men. That they would exalt him in the Congregation of the people,</hi> leaving their <hi>Conven<g ref="char:EOLhyphen"/>ticles,</hi> wherein God cannot be ſo highly praiſed, nor ſo much honoured as in a place of publick concourſe, a <hi>Church.</hi>
+            </p>
+            <p>I muſt for a cloſe of this <hi>third Quaere</hi> freely vent my thoughts which have beene ever in my breſt.</p>
+            <p>The <hi>Claſſicall Presbyters</hi> made way for theſe abuſes and cor<g ref="char:EOLhyphen"/>ruptions in our <hi>Church</hi> by making an unhappy breach in it, when they brought in their <hi>Motlie Directorie</hi> into the <hi>Church,</hi> by which meanes they drove many out of it into <hi>Conventicles,</hi> and, like <hi>the Sonnes of Eli,</hi>
+               <note place="margin">1 Sam. 2.17.</note> by their unjuſt Uſurpation <hi>made men to abhorre the offering of the Lord, and caus'd the people to treſpaſs, ver.</hi> 14.</p>
+            <p>They too by their uſurping the power of <hi>Ordination,</hi> con<g ref="char:EOLhyphen"/>trary to the rule of <hi>Chriſt,</hi> and the eſtabliſhed order of the <hi>Church,</hi> were the cauſe that others (in oppoſition to them) did and doe now preach without <hi>Orders.</hi>
+            </p>
+            <p>By this we ſee, what good friends and Servants, how dutiful <hi>Sonnes</hi> the <hi>Presbyters</hi> have been to their <hi>Mother</hi> the <hi>Church.</hi> All the hurt that I wiſh them is this, that they were confin'd and
+<pb n="31" facs="tcp:118153:20"/>
+doom'd <hi>Scotorum pultibus ſaginari,</hi> to be <hi>fellow-Commoners, live, repent</hi> and <hi>die</hi> amongſt their wretched brethren the <hi>Scots,</hi> the firſt fomenters of our diviſions, and Authours of our miſe<g ref="char:EOLhyphen"/>ries.<note place="margin">
+                  <hi>Voſsius Hiſt. Pelag.</hi> ſaies of <hi>Pelagius,</hi> that he was <hi>Socoto<g ref="char:EOLhyphen"/>rum Pultibus Saginatus.</hi>
+               </note>
+            </p>
+            <epigraph>
+               <q>
+                  <hi>Heavenly Father forgive them. They know not what</hi> miſchiefe they have done.</q>
+            </epigraph>
+         </div>
+         <div n="4" type="query">
+            <head>The fourth QUERE. <hi>Whether it be lawfull for a</hi> Lay-man <hi>to preach?</hi>
+            </head>
+            <p>I Remember a ſaying of <hi>Iſocrates,</hi> 
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, it is not proper for an <hi>Oratour,</hi> or any one to ſpend many words about a buſineſſe or <hi>Theme</hi> that is cleer and common. Therefore ſeeing that the <hi>Quaere</hi> is not attended with any great difficulty, and hath been ſo much diſcuſſed by the pens of the <hi>learned,</hi> I ſhall not ſpend many words about it. Onely this I ſhall ſay for the benefit and conviction of the <hi>
+                  <g ref="char:V">Ʋ</g>nlearned,</hi> to whoſe capacity I deſire to fit my diſcourſe, and ſuit my phraſe.</p>
+            <p>If by <hi>preaching</hi> we underſtand (as we are to doe) the <note n="*" place="margin">2 Tim 2.15.</note> 
+               <hi>dividing of the word aright,</hi> i. e. The applying of it (according to the diverſity of <hi>perſons, times,</hi> and <hi>places</hi>)<note place="margin">1 Cor. 7.20.</note> to the conſciences of the <hi>Hearers</hi> in publick; which application of it implyes a reproving of ſinne in a <hi>judiciall authoritative</hi> way, and a de<g ref="char:EOLhyphen"/>nouncing of <hi>Judgment</hi> againſt ſinners, and laſtly a laying forth or unfolding of ſweet <hi>promiſes</hi> of the <hi>Goſpell,</hi> of pardon and for<g ref="char:EOLhyphen"/>giveneſſe to the faithfull and penitent, who renounce their own, and rely upon <hi>Chriſts</hi> merits, To affirme, that to doe this, in a conſtituted or ſetled <hi>Church,</hi> is lawfull for a <hi>Layman,</hi> is as in<g ref="char:EOLhyphen"/>congruous, and carryes with it as great an abſurdity, as to ſay (which is impious) that S. <hi>Paul</hi> was miſtaken and did not ſpeak from <hi>Chriſt,</hi> when he enjoyned, <hi>every one to abide in that calling to which he is called.</hi> 
+               <note n="†" place="margin">Art thou then called to be a Weaver, a Tay<g ref="char:EOLhyphen"/>lour, or a Cobler? deſert not thy calling, and thruſt not thy ſelfe into that which be<g ref="char:EOLhyphen"/>longs to ano<g ref="char:EOLhyphen"/>ther.</note> 
+               <hi>For one to invade the proper duty of a Mi<g ref="char:EOLhyphen"/>nister without a ſpeciall calling from the Church is altogether unlaw<g ref="char:EOLhyphen"/>full,</hi> ſo ſayes <hi>Ameſius</hi> himſelfe, <hi>lib.</hi> 4. <hi>de Caſ conſc. cap.</hi> 25.</p>
+            <p>
+               <pb n="32" facs="tcp:118153:21"/>
+Secondly, He that can maintain it lawfull for a common <hi>Soldier,</hi> (becauſe he hath good skill at his weapon and in the feats of Warre) to challenge the place of a <hi>Colonell</hi> or chiefe <hi>Commander,</hi> without the conſent of the ſuperiour Officers; He that can prove it that <hi>Korah</hi> and his two <hi>confederates</hi> ſinned not in riſing up againſt <hi>Moſes</hi> and <hi>Aaron,</hi> and uſurping the Prieſts Office.<note place="margin">Num. 16.3.</note> (<hi>Moſes</hi> I am ſure checked their boldneſſe thus, <note n="*" place="margin">Ver. 17.</note> 
+               <hi>ye take too much upon you,</hi> &amp;c. it was ſo <hi>much,</hi> and ſo weighty a burthen, their uſurpation ſo great a ſinne, that the earth could not beare them but opened and ſwallowed up them and all their proud aſſociates.)</p>
+            <p>Thirdly, He that can convince my Judgement that <note n="†" place="margin">2 Sam. 6.6.</note> 
+               <hi>
+                  <g ref="char:V">Ʋ</g>zzah</hi> ſinned not in touching the <hi>Ark;</hi> That the men of <note n="*" place="margin">1 Sam. 6.19.</note> 
+               <hi>Bethſhemel</hi> did not offend by looking boldly into it; That <note n="†" place="margin">1 Sam. 13.11.</note> 
+               <hi>Saul</hi> and <note n="*" place="margin">2 Chr. 26.18.</note> 
+               <hi>
+                  <g ref="char:V">Ʋ</g>zziah</hi> did not commit a great treſpaſſe in taking upon them <hi>the Prieſts Office.</hi>
+               <note place="margin">2 Ch. 26.17,18</note> 
+               <hi>Thou haſt done fooliſhly,</hi> ſo ſaid <hi>Samu<g ref="char:EOLhyphen"/>el</hi> to <hi>Saul,</hi> 1 <hi>Sam.</hi> 13.13. He loſt his Kingdome by it, as appears <hi>Ver.</hi> 14. <hi>Now the Kingdome ſhall not continue,</hi> &amp;c. they are the words of the <hi>Prophet. Azariah the Prieſt, and with him four<g ref="char:EOLhyphen"/>ſcore Prieſts of the Lord, Valiant men, they withſtood</hi> Uzziah <hi>the King, and ſaid unto him, It belongeth not to thee</hi> Uzziah <hi>to burne incenſe</hi> unto the <hi>Lord, but to the Prieſts, the Sonnes of</hi> Aaron, <hi>that are conſecrated for to offer incenſe: goe forth of the Sanctuary, for thou hast tranſgreſſed, and thou ſhalt have none honour of the Lord thy God.</hi>—You may read <hi>ver.</hi> 19. How that he was puniſhed with <hi>Leproſie</hi> (a ſoul diſeaſe) for his foul fact, and that in the <hi>forehead,</hi> the ſeat of Impudencie, he was too bold. His open ſin was puniſhed with open ſhame. <hi>Though his zeal ſeemed to be good and alſo his</hi> 
+               <note n="*" place="margin">To a lawfull act there is re<g ref="char:EOLhyphen"/>quired not on<g ref="char:EOLhyphen"/>ly a good end, but alſo good meanes. A good intention if the meanes be bad will not bring a man to Heaven. Many with this miſtake have gone to Hell. <hi>Bonum benè</hi> is the rule in Divinity.</note> 
+               <hi>intention, yet becauſe they were not regulated or gui<g ref="char:EOLhyphen"/>ded by Gods word, he did wickedly, and was therefore both juſtly re<g ref="char:EOLhyphen"/>ſiſted [by the Prieſts] and puniſhed [by God.]</hi> This note you ſhall finde in the Margin of your Engliſh Bibles, which I wiſh were well obſerved by our too too forward <hi>Zelots,</hi> who flatter and deceive themſelves with their good <hi>intentions,</hi> when the <hi>meanes</hi> they uſe is not lawfull but unrighteous.</p>
+            <p>Fourthly, He that can prove it by any plauſible argu<g ref="char:EOLhyphen"/>ment (as I am ſure none can, though he were as pow<g ref="char:EOLhyphen"/>erfull in invention and witty in Arguing, as <note n="†" place="margin">
+                  <hi>Perſuadebit nobis quicquid volet.</hi> ita de Perronio Pau<g ref="char:EOLhyphen"/>lus, <hi>ſanctus in vita</hi> Perronii <hi>Opuſculis ejus praefixâ.</hi>
+               </note> 
+               <hi>Perronius</hi> once a
+<pb n="33" facs="tcp:118153:21"/>
+               <hi>Cardinall</hi> of <hi>Rome</hi>) That it was lawfull under the old law for any <hi>Butcher,</hi> becauſe he had skill in killing of a beaſt, to ſlay the <hi>Sacrifice,</hi> which was onely proper to <note n="*" place="margin">Levit. 1.4. He ſhall kill the Bullock.</note> 
+               <hi>the Levites.</hi> And he that ſhall demonſtrate to my underſtanding that he is not guilty of great preſumption, and much pride, who ſhall firſt think him<g ref="char:EOLhyphen"/>ſelfe fit for that office, which S. <hi>Paul</hi> ſo admired, and trembled at, that he brake forth into a <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <note place="margin">2 Cor. 2.16.</note>
+               <hi>who is ſufficient for it?</hi> He that thinkes himſelfe ſo, is moſt unſufficient; eſpecially, when he ſhall want all thoſe gifts which are uſually ſeen and required in miniſters, as, skill in the <hi>Languages, Fathers, Councells, Schoolemen, Church hiſtories,</hi> with other modern writers; toge<g ref="char:EOLhyphen"/>ther with the <hi>Arts</hi> and <hi>Sciences.</hi>
+            </p>
+            <p>Fiftly, he that ſhall cleer this point unto me, that the practice of <hi>Chriſt</hi> and his <hi>Apoſtles</hi> together with the whole <hi>Church</hi> for ſixteen hundred yeares and upwards, is not to be allowed of, eſpecially, when that <hi>practice</hi> is confirmed and ratified by <hi>prae<g ref="char:EOLhyphen"/>cept</hi> in the holy <hi>Scriptures,</hi> where we find <note n="*" place="margin">1 Tim. 4.14.5.22. Tit. 1.5. Act. 14.23. &amp;c.</note> directions to the then <hi>Biſhops</hi> for the laying on of hands upon thoſe who were then, and now are to be admitted into <hi>holy Orders.</hi>
+            </p>
+            <p>And laſtly he that can evince it, that beſides the <hi>inward Te<g ref="char:EOLhyphen"/>stimony</hi> of a mans owne Conſcienee <note n="*" place="margin">(That he is both willing and able to diſ<g ref="char:EOLhyphen"/>charge the of<g ref="char:EOLhyphen"/>fice of a Mini<g ref="char:EOLhyphen"/>ſter.)</note> there is not upon the former grounds required the <hi>outward</hi> call or <hi>Testimony</hi> of the <hi>Church,</hi> to whom he is to give triall of his gifts, and then receive the <hi>Churches</hi> bleſſing, with ſolemn Prayers to <hi>God,</hi> to pro<g ref="char:EOLhyphen"/>ſper the work which he is going about, <hi>i. e.</hi> that he may con<g ref="char:EOLhyphen"/>vert <hi>Soules,</hi> and thereby enlarge the Kingdome of <hi>Chriſt.</hi>
+            </p>
+            <p>He, that is able (as I am ſure none ever was, or will be) to prove all theſe particulars, ſhall ſubdue my reaſon, and bring me to a confeſſion, that it is lawfull for a <hi>Layman</hi> to <hi>preach.</hi>
+            </p>
+            <p>Till this be proved (as it never can be expected) I ſhall with the authority of <hi>Gods word,</hi> the conſent of all <hi>Antiquity,</hi> and the practice of all <hi>Reform'd Churches,</hi> conclude and ſtand firmly to this poſition:</p>
+            <p>That no man ought to take upon him this ſacred function, or office, <note place="margin">Heb 5.4.</note>
+               <hi>but he that is called as Aaron was. i. e.</hi> by God. The voyce of the <hi>Church</hi> is the voyce <hi>of God;</hi> Ergo, <hi>Laymen</hi> that <hi>call</hi> themſelves by a bold intruſion, we may lawfully call <hi>
+                  <g ref="char:V">Ʋ</g>ſur<g ref="char:EOLhyphen"/>pers of the Prieſts office,</hi> of the Stock of <hi>Korah,</hi> of the race of
+<pb n="34" facs="tcp:118153:22"/>
+               <hi>Jeroboam's Priests.</hi> 
+               <note place="margin">1 King. 13.33.</note>
+               <hi>He made of the loweſt of the People, Prieſts of the high places, which thing became a ſinne to the Houſe of</hi> Jero<g ref="char:EOLhyphen"/>boam, <hi>even to cut it off and deſtroy it from the face of the Earth.</hi>
+            </p>
+            <p>And unleſſe the <hi>Divine Juſtice</hi> ſhall ſpeedily ſtop the mouthes of the <hi>Apron-Rabbies,</hi> and <hi>Ruſſet-Levites,</hi> by ſome ſtrange judgement, and ſo cut <hi>them</hi> off <hi>who</hi> have kindled a flame in <hi>State</hi> and <hi>Church</hi> (that hath blaſted all good order, conſumed all <hi>Gods</hi> Ordinances, and cauſed a generall ebbe of Devotion and Piety amongſt us) <hi>who</hi> alſo have crept in like <hi>theeves</hi> into the <hi>Church</hi> by back-wayes, have ſecretly inſinuated themſelves into the Society of <hi>Gods</hi> people, profeſſing them<g ref="char:EOLhyphen"/>ſelves to be teachers of the True Faith, but are indeed the <hi>de<g ref="char:EOLhyphen"/>ſtroyers</hi> of it, and <hi>Diſturbers</hi> of our peace, <note place="margin">Jude 4.</note>
+               <hi>ungodly men, who were of old</hi> 
+               <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>ordained,</hi> appointed (as if it had beene ſet downe in a book) <hi>to this condemnation or to this Judgement,</hi> to be <hi>flagellum Eccleſiae,</hi> to try, to <note n="*" place="margin">
+                  <hi>Id circo do<g ref="char:EOLhyphen"/>ctrinam Catho<g ref="char:EOLhyphen"/>licam contra dicentium obſi<g ref="char:EOLhyphen"/>det impugnatio, ut fides noſtra non otio torpeſ<g ref="char:EOLhyphen"/>cat, ſed multis exercitationibus elimetur.</hi> Aug.</note> exerciſe and moleſt the <hi>Church</hi> by their falſe Doctrine, and, when they have done their worſt, to receive for a recompence or reward of their impiety and wickedneſſe, <hi>damnation.</hi>
+            </p>
+            <p>Till theſe <hi>Incendiaries</hi> be ſuppreſſed and ſilenced, we cannot expect but that this our now diſtracted <hi>Nation</hi> (which was once the <hi>ſcourge</hi> of others and the <hi>praiſe of all the world,</hi>) ſhall become the <hi>ſcorne</hi> of all Nations, (whilſt (as the <hi>Jewes</hi> once did) we deſtroy our ſelves at home by our multiplyed diviſions, and ſo prevent the miſchievous malice of our foraine <hi>Enemies:</hi>
+               <note place="margin">
+                  <hi>Vid. Ioſeph. Hist.</hi>
+               </note> which thing will make us a deriſion to thoſe that are round about us, to the men of <hi>Gath</hi> and <hi>Askelon,</hi> the uncircumciſed <hi>Philiſtines,</hi> bloody <hi>Jeſuites,</hi> and <hi>Papiſts.</hi> Which God avert, for his mercies ſake, and the <hi>Merits</hi> of his <hi>Sonne Chriſt Ieſus.</hi>
+            </p>
+            <epigraph>
+               <q>
+                  <hi>Pray for the Peace of Ieruſalem,</hi> 
+                  <bibl>Pſal. 122.6.</bibl>
+               </q>
+            </epigraph>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PAge 9. lin. 3. r, <hi>existimationem.</hi> ibid. l. 4. r. <hi>ab illis.</hi> p. 11. l. 6. r. <hi>argumenta<g ref="char:EOLhyphen"/>tions,</hi> p. 15. marg. r. <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+         </div>
+         <div type="prayer">
+            <pb facs="tcp:118153:22"/>
+            <head>The <hi>Authours</hi> Prayer to <hi>God,</hi> for the ſuppreſsing of <hi>Haereſie,</hi> and happy compoſing of our unhappy <hi>Diviſions.</hi>
+            </head>
+            <p>OH <hi>Thou</hi> who art <hi>one</hi> and <hi>infinite</hi> in power, the center of perfection, and the <hi>God</hi> of Love, collect our ſcattered thoughts from <hi>perverſe diſputes,</hi> and worldly diſtractions; draw in our hearts from hunting after <hi>Vanities;</hi> Confine them to thine <hi>Heaven,</hi> and to <hi>thy ſelfe</hi> who art the <hi>Heaven</hi> of that <hi>Heaven.</hi> Make us to love thy <hi>Truth,</hi> which is the <hi>brightneſſe</hi> of thy ever<g ref="char:EOLhyphen"/>laſting light, the undefiled mirrour of thy <hi>Majeſty,</hi> and the <hi>Image</hi> of thy <hi>Glory.</hi> And becauſe there is but one <hi>Heaven,</hi> and one way to it, <hi>that</hi> living way of <hi>Faith</hi> and <hi>Obedience,</hi> Oh let the bright beams of thy grace ſhine in the hearts of thy people, who are now turned to the by<g ref="char:EOLhyphen"/>wayes of <hi>Errour,</hi> and wander in the <hi>deſarts</hi> of <hi>Sinne</hi> and <hi>Haereſie;</hi> reduce them <hi>good Father,</hi> into the way of <hi>Truth,</hi> that with <hi>one</hi> heart and <hi>one</hi> minde, they may ſerve thee the <hi>onely</hi> true God, through Jeſus Christ our Lord, <hi>Amen.</hi>
+            </p>
+            <trailer>Trin-uni Deo ſit Honos, Laus &amp; gloria.</trailer>
+         </div>
+         <trailer>THE END.</trailer>
+      </back>
+   </text>
+</TEI>
